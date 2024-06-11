@@ -12,15 +12,22 @@ if (!sourceRepos?.length) {
     console.error('Error: SOURCE_REPOS environment variable is not set or is empty.')
     process.exit(1)
 }
-// 格式 docker://username:password@registry.example.com
-const destinationCredentials = process.env.DESTINATION_CREDENTIALS?.split('\n')?.filter(Boolean).map((line) => {
-    const url = new URL(line)
-    return {
-        url: url.hostname,
-        username: url.username,
-        password: url.password,
+
+function parseDockerUrl(url: string) {
+    const regex = /^docker:\/\/([^:]+):([^@]+)@(.+)$/
+    const match = url.match(regex)
+    if (!match) {
+        throw new Error('Invalid Docker URL format')
     }
-}) || []
+    return {
+        username: match[1],
+        password: match[2],
+        registry: match[3],
+    }
+}
+
+// 格式 docker://username:password@registry.example.com
+const destinationCredentials = process.env.DESTINATION_CREDENTIALS?.split('\n')?.filter(Boolean).map((line) => parseDockerUrl(line)) || []
 
 if (!destinationCredentials?.length) {
     console.error('Error: DESTINATION_CREDENTIALS environment variable is not set or is empty.')
@@ -47,8 +54,8 @@ for (const sourceRepo of sourceRepos) {
     for (const tag of tags) {
         const sourceImage = tag
 
-        for (const { url, username, password } of destinationCredentials) {
-            const destinationImage = `${url}/${sourceImage}`
+        for (const { registry, username, password } of destinationCredentials) {
+            const destinationImage = `${registry}/${sourceImage}`
             try {
                 console.log(`Start synchronizing ${sourceImage} to ${destinationImage}`)
                 await $`skopeo copy --format ${syncFormat} --src-tls-verify=false --dest-tls-verify=false --dest-creds=${username}:${password} ${sourceTransport}://${sourceImage} ${destinationTransport}://${destinationImage}`
