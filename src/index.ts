@@ -36,7 +36,7 @@ const filterTime = 48 * 60 * 60 * 1000 // 48 hours in seconds 172800000
 for (const sourceRepo of sourceRepos) {
     console.log(`Syncing ${sourceRepo} to multiple destinations`)
 
-    const rssUrl = new URL(`https://rsshub.app/dockerhub/tag/${sourceRepo}?filter_time=${filterTime}&limit=${limit}`).toString()
+    const rssUrl = new URL(`https://rsshub.app/dockerhub/tag/${sourceRepo}?filter_time=${filterTime}&limit=${limit}&filterout=.sig|chromium-bundled`).toString()
 
     const rssResp = await rssParser.parseURL(rssUrl)
 
