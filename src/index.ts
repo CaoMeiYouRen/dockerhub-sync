@@ -36,9 +36,9 @@ if (!destinationCredentials?.length) {
 
 const sourceTransport = 'docker'
 const destinationTransport = 'docker'
-const limit = 10
+const limit = 5
 const syncFormat = 'v2s2'
-const filterTime = 48 * 60 * 60 // 48 hours in seconds 172800
+const filterTime = 30 * 24 * 60 * 60 // 48 hours in seconds 172800
 
 for (const sourceRepo of sourceRepos) {
     console.log(`Syncing ${sourceRepo} to multiple destinations`)
