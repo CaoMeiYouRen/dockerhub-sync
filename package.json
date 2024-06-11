@@ -96,6 +96,7 @@
     "isomorphic-unfetch": "^4.0.2",
     "lodash-es": "^4.17.21",
     "log4js": "^6.9.1",
+    "rss-parser": "^3.13.0",
     "tslib": "^2.6.3",
     "yaml": "^2.4.5",
     "zx": "^8.1.2"

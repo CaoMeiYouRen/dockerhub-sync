@@ -1,16 +1,19 @@
 #!/usr/bin/env zx
 /* eslint-disable no-undef */
 import 'zx/globals'
+import Parser from 'rss-parser'
+
+const rssParser = new Parser()
 
 // 格式 caomeiyouren/rss-impact-server
-const sourceRepos = process.env.SOURCE_REPOS?.split('\n') || []
+const sourceRepos = process.env.SOURCE_REPOS?.split('\n')?.filter(Boolean) || []
 
 if (!sourceRepos?.length) {
     console.error('Error: SOURCE_REPOS environment variable is not set or is empty.')
     process.exit(1)
 }
 // 格式 docker://username:password@registry.example.com
-const destinationCredentials = process.env.DESTINATION_CREDENTIALS?.split('\n').map((line) => {
+const destinationCredentials = process.env.DESTINATION_CREDENTIALS?.split('\n')?.filter(Boolean).map((line) => {
     const url = new URL(line)
     return {
         url: url.hostname,
@@ -26,27 +29,20 @@ if (!destinationCredentials?.length) {
 
 const sourceTransport = 'docker'
 const destinationTransport = 'docker'
-const syncTags = 10
+const limit = 10
 const syncFormat = 'v2s2'
-const syncTimeframe = 48 * 60 * 60 // 48 hours in seconds
+const filterTime = 48 * 60 * 60 * 1000 // 48 hours in seconds 172800000
 
 for (const sourceRepo of sourceRepos) {
     console.log(`Syncing ${sourceRepo} to multiple destinations`)
 
-    // Get the list of tags and their creation timestamps
-    const { stdout, stderr } = await $`skopeo list-tags --format '{{.Tag}} {{.Created}}' docker://${sourceRepo}`
+    const rssUrl = new URL(`https://rsshub.app/dockerhub/tag/${sourceRepo}?filter_time=${filterTime}&limit=${limit}`).toString()
 
-    if (stderr) {
-        console.error(`exec error: ${stderr}`)
-        continue
-    }
+    const rssResp = await rssParser.parseURL(rssUrl)
 
-    // Parse the output and filter the latest 10 tags within the last 48 hours
-    const tags = stdout.trim().split('\n')
-        .map((line) => line.split(' '))
-        .filter(([, created]) => Date.now() / 1000 - parseInt(created) <= syncTimeframe)
-        .slice(0, syncTags)
-        .map(([tag]) => tag)
+    const tags = rssResp.items.map((item) => item.guid.split('@')[0])
+
+    console.log(`The tag to be synchronized is ${tags.join(', ')}`)
 
     for (const tag of tags) {
         const sourceImage = `${sourceRepo}:${tag}`
