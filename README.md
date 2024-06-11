@@ -16,6 +16,13 @@
 
 > 同步 dockerhub 的镜像到其他镜像源
 
+## 当前同步版本
+
+<!-- DOCKER_START -->
+```
+```
+<!-- DOCKER_END -->
+
 ## 🏠 主页
 
 [https://github.com/CaoMeiYouRen/dockerhub-sync#readme](https://github.com/CaoMeiYouRen/dockerhub-sync#readme)

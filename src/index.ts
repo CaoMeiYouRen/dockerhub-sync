@@ -2,6 +2,7 @@
 /* eslint-disable no-undef */
 import 'zx/globals'
 import Parser from 'rss-parser'
+import fs from 'fs-extra'
 
 const rssParser = new Parser()
 
@@ -40,6 +41,8 @@ const limit = 5
 const syncFormat = 'v2s2'
 const filterTime = 2 * 24 * 60 * 60 // 48 hours in seconds 172800
 
+let dockerTags = ''
+
 for (const sourceRepo of sourceRepos) {
     console.log(`Syncing ${sourceRepo} to multiple destinations`)
 
@@ -57,6 +60,7 @@ for (const sourceRepo of sourceRepos) {
 
         for (const { registry, username, password } of destinationCredentials) {
             const destinationImage = `${registry}/${projectName}:${rawTag}`
+            dockerTags += destinationImage
             try {
                 console.log(`Start synchronizing ${sourceImage} to ${destinationImage}`)
                 await $`skopeo copy --format ${syncFormat} --src-tls-verify=false --dest-tls-verify=false --dest-creds=${username}:${password} ${sourceTransport}://${sourceImage} ${destinationTransport}://${destinationImage}`
@@ -66,4 +70,12 @@ for (const sourceRepo of sourceRepos) {
             }
         }
     }
+}
+
+if (dockerTags) {
+    const text = `\`\`\`\n${dockerTags}\n\`\`\``
+    const readme = await fs.readFile('README.md', 'utf-8')
+    const newReadme = readme.replace(/<!-- DOCKER_START -->([\s\S]*?)<!-- DOCKER_END -->/, `<!-- DOCKER_START -->\n${text}\n<!-- DOCKER_END -->`)
+    await fs.writeFile('README.md', newReadme)
+    console.log('更新 Docker Tags 成功')
 }
