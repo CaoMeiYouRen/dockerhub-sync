@@ -72,7 +72,7 @@ for (const sourceRepo of sourceRepos) {
         }
     }
 }
-
+dockerTags = dockerTags.trim()
 if (dockerTags) {
     const text = `\`\`\`\n${dockerTags}\n\`\`\``
     const readme = await fs.readFile('README.md', 'utf-8')
