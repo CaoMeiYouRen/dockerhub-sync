@@ -24,9 +24,10 @@
     "lint": "cross-env NODE_ENV=production eslint src --fix --ext .ts,.js,.cjs,.mjs",
     "prebuild": "rimraf dist",
     "build": "cross-env NODE_ENV=production tsup",
-    "dev": "cross-env NODE_ENV=development tsx watch src/index.ts",
+    "dev": "cross-env NODE_ENV=development tsx watch ./src/index.ts",
     "dev:tsup": "cross-env NODE_ENV=development tsup --watch",
     "start": "node ./dist/index",
+    "start:tsx": "cross-env NODE_ENV=production tsx ./src/index.ts",
     "release": "semantic-release",
     "commit": "cz",
     "prepare": "husky install"
@@ -95,7 +96,8 @@
     "lodash-es": "^4.17.21",
     "log4js": "^6.9.1",
     "tslib": "^2.6.3",
-    "yaml": "^2.4.5"
+    "yaml": "^2.4.5",
+    "zx": "^8.1.2"
   },
   "pnpm": {
     "overrides": {
