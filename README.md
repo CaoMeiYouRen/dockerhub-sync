@@ -28,7 +28,6 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc1
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc1-alpine3.20
-
 ```
 <!-- DOCKER_END -->
 
