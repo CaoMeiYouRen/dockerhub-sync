@@ -61,6 +61,7 @@ for (const sourceRepo of sourceRepos) {
         for (const { registry, username, password } of destinationCredentials) {
             const destinationImage = `${registry}/${projectName}:${rawTag}`
             dockerTags += destinationImage
+            dockerTags += '\n'
             try {
                 console.log(`Start synchronizing ${sourceImage} to ${destinationImage}`)
                 await $`skopeo copy --format ${syncFormat} --src-tls-verify=false --dest-tls-verify=false --dest-creds=${username}:${password} ${sourceTransport}://${sourceImage} ${destinationTransport}://${destinationImage}`
