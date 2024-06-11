@@ -20,6 +20,7 @@
 
 <!-- DOCKER_START -->
 ```
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:633c072a523183968b41c99a881442e3cbdfb3ecregistry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-10registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latestregistry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc1-bookwormregistry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc1registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc-bookwormregistry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rcregistry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc1-alpine3.20
 ```
 <!-- DOCKER_END -->
 
