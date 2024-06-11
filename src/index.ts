@@ -52,10 +52,11 @@ for (const sourceRepo of sourceRepos) {
     console.log(`The tag to be synchronized is ${tags.join(', ')}`)
 
     for (const tag of tags) {
+        const [namespace, projectName, rawTag] = tag.split(/:|\//)
         const sourceImage = tag
 
         for (const { registry, username, password } of destinationCredentials) {
-            const destinationImage = `${registry}/${sourceImage}`
+            const destinationImage = `${registry}/${projectName}:${rawTag}`
             try {
                 console.log(`Start synchronizing ${sourceImage} to ${destinationImage}`)
                 await $`skopeo copy --format ${syncFormat} --src-tls-verify=false --dest-tls-verify=false --dest-creds=${username}:${password} ${sourceTransport}://${sourceImage} ${destinationTransport}://${destinationImage}`
