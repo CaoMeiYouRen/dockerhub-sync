@@ -20,7 +20,7 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:3f579f4aaec98049c6a8a9ec1ca2489aef009c94
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:ffff5456e3bbd12fec719af5534a56d67a00e714
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-12
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc1-bookworm
