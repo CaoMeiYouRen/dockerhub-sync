@@ -20,8 +20,8 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:633c072a523183968b41c99a881442e3cbdfb3ec
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-10
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:3f579f4aaec98049c6a8a9ec1ca2489aef009c94
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-12
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc1-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc1
