@@ -20,15 +20,14 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:633c072a523183968b41c99a881442e3cbdfb3ec
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-10
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:a86c5dc1c7821cbb7eb79d8470e73470f9e1c90b
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-13
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc1-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc1
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc1-alpine3.20
-
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:windowsservercore-ltsc2022
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:windowsservercore-1809
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:windowsservercore
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:nanoserver-ltsc2022
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:nanoserver-1809
 ```
 <!-- DOCKER_END -->
 
