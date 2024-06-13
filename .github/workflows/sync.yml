@@ -45,6 +45,8 @@ jobs:
         env:
           SOURCE_REPOS: ${{ vars.SOURCE_REPOS }}
           DESTINATION_CREDENTIALS: ${{ secrets.DESTINATION_CREDENTIALS }}
+          SYNC_LIMIT: ${{ vars.SYNC_LIMIT }}
+          SYNC_FILTER_TIME: ${{ vars.SYNC_FILTER_TIME }}
       - name: Commit files
         id: commit-files
         run: |

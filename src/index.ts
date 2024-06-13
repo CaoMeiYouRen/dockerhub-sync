@@ -37,9 +37,9 @@ if (!destinationCredentials?.length) {
 
 const sourceTransport = 'docker'
 const destinationTransport = 'docker'
-const limit = 5
+const limit = parseInt(process.env.SYNC_LIMIT) || 5
 const syncFormat = 'v2s2'
-const filterTime = 2 * 24 * 60 * 60 // 48 hours in seconds 172800
+const filterTime = (parseInt(process.env.SYNC_FILTER_TIME) || 2) * 24 * 60 * 60 // 48 hours in seconds 172800
 
 let dockerTags = ''
 
