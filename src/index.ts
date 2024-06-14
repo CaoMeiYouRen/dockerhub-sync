@@ -46,7 +46,7 @@ let dockerTags = ''
 for (const sourceRepo of sourceRepos) {
     console.log(`Syncing ${sourceRepo} to multiple destinations`)
 
-    const rssUrl = new URL(`https://rsshub.app/dockerhub/tag/${sourceRepo}?filter_time=${filterTime}&limit=${limit}&filterout=.sig|chromium-bundled`).toString()
+    const rssUrl = new URL(`https://rsshub.app/dockerhub/tag/${sourceRepo}?filter_time=${filterTime}&limit=${limit}&filterout=.sig|chromium-bundled|window|nano`).toString()
 
     const rssResp = await rssParser.parseURL(rssUrl)
 
@@ -60,12 +60,12 @@ for (const sourceRepo of sourceRepos) {
 
         for (const { registry, username, password } of destinationCredentials) {
             const destinationImage = `${registry}/${projectName}:${rawTag}`
-            dockerTags += destinationImage
-            dockerTags += '\n'
             try {
                 console.log(`Start synchronizing ${sourceImage} to ${destinationImage}`)
                 await $`skopeo copy --format ${syncFormat} --src-tls-verify=false --dest-tls-verify=false --dest-creds=${username}:${password} ${sourceTransport}://${sourceImage} ${destinationTransport}://${destinationImage}`
                 console.log(`Synced ${sourceImage} to ${destinationImage}`)
+                dockerTags += destinationImage
+                dockerTags += '\n'
             } catch (error) {
                 console.error(`exec error: ${error}`)
             }
