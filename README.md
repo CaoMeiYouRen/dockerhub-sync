@@ -20,9 +20,18 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:4255b79103afe26b970a67ebd9c5a4f86f910462
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-14
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:22.3.0-alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10.14-alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10.14-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10-alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:alpine3.20
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:bullseye
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.22.4-bullseye
@@ -33,10 +42,7 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc1-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc1
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:8.0.37-debian
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:8.0.37-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:8.0-debian
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:8.0-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0.0-rc8-jammy
 ```
 <!-- DOCKER_END -->
 
