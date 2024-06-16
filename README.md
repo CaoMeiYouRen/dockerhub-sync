@@ -20,29 +20,13 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:22.3.0-alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10.14-alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10.14-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10-alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.22.4-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.22.4-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.22-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc1-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc1
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0.0-rc8-jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:d2632bd64f7576f7fdc84aabd9b8faab07a4811a
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-16
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:github-pr-3810
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:github-dependabot-npm_and_yarn-backend-braces-3-0-3
 ```
 <!-- DOCKER_END -->
 
