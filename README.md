@@ -20,9 +20,19 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:943ec2e740f8ad715cbc6c2c6b13fec9d953133f
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:184c47608defdd9643327dc173e1bdff119babe5
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-18
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest-jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest-jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22-jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22-graal
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk-lts-and-current-graal-jammy
 ```
 <!-- DOCKER_END -->
 
