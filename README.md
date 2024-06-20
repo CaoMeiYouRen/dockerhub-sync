@@ -20,14 +20,18 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:7584ada412e1b1c185d15d3cd023a9b05e839a03
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-19
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:0ba17e15bdc810906141d5cad391239e855aacc4
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-20
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oraclelinux9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oracle
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oraclelinux9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oracle
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:github-pr-3815
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:22.0.1_8-jre-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:22.0.1_8-jdk-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:22-jre-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:22-jdk-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:22-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine:3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine:3.19
 ```
 <!-- DOCKER_END -->
 
