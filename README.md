@@ -20,36 +20,24 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:2024-06-23
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:2024-06-24
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3-node20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3.20-node20.13
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:2024-06-23
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:2024-06-23
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:2024-06-24
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3-node20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3.20-node20.13
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:2024-06-23
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:2024-06-23
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:2024-06-24
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3-node20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3.20-node20.13
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:80da61c844b7a5a11bdccc37b1b0e71a3aabf2e2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-22
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:2024-06-23
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:a16f1a6e331eee381d707b6a305f0728de68f4e1
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-23
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:github-pr-3819
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine3.19
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:alpine3.19
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:22.3.0-alpine3.19
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:22.3-alpine3.19
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:22-alpine3.19
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.23rc1-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.23rc1-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.23rc1-alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.23rc1-alpine3.19
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.23rc1-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0.0-rc9-jammy
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0-rc-jammy
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oraclelinux9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oracle
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oraclelinux9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oracle
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts
 ```
 <!-- DOCKER_END -->
 
