@@ -24,20 +24,25 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:2024-06-24
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3-node20
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3.20-node20.13
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:2024-06-23
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:2024-06-24
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3-node20
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3.20-node20.13
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:2024-06-23
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:2024-06-24
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3-node20
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3.20-node20.13
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:2024-06-23
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:a16f1a6e331eee381d707b6a305f0728de68f4e1
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-23
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:c423a7cba90c2a35f03c5b8b20436d62f8043557
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-24
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:base2
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:base2-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:nightly2
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:8u412-b08-jre-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:8u412-b08-jdk-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:8-jre-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:8-jdk-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:8-alpine
 ```
 <!-- DOCKER_END -->
 
