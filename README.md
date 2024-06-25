@@ -20,29 +20,26 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:2024-06-24
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3-node20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3.20-node20.13
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:2024-06-24
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3-node20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3.20-node20.13
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:2024-06-24
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3-node20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3.20-node20.13
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:c423a7cba90c2a35f03c5b8b20436d62f8043557
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-24
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:4be07dcf3424bfa0bd85aea5b024bee9221bf09b
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-25
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:base2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:base2-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:nightly2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:8u412-b08-jre-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:8u412-b08-jdk-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:8-jre-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:8-jdk-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:8-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest-jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.464-jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:github-develop
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:github-pr-3809
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:lts-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:lts-iron
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:lts-bullseye-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:lts-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:lts-bookworm-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk21-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk17-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk11-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk-lts-and-current-alpine
 ```
 <!-- DOCKER_END -->
 
