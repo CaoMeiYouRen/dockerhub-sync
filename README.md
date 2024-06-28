@@ -20,21 +20,12 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:ebff6c5bdd6513c5fe750bef037c1f92029f5880
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-27
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:1291f366114d302d819c50e127a4b6ce0920e623
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-28
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:github-pr-3833
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:github-dependabot-npm_and_yarn-backend-glob-parent-5-1-2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.8.19-alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22-jammy
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk21-jammy
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:github-pr-3837
 ```
 <!-- DOCKER_END -->
 
