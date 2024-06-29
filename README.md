@@ -20,12 +20,18 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:1291f366114d302d819c50e127a4b6ce0920e623
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-28
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:7d558ba90e5213f4ae9928886b97faea3b1195f8
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-29
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:github-pr-3837
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:github-pr-3827
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc2-alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc2-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc-alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc2-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:jammy
 ```
 <!-- DOCKER_END -->
 
