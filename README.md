@@ -20,18 +20,23 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:7d558ba90e5213f4ae9928886b97faea3b1195f8
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-29
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:2024-07-01
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3-node20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3.20-node20.13
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:2024-07-01
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3-node20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3.20-node20.13
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:2024-07-01
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3-node20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3.20-node20.13
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:efd9af59f588b814898c4518719a0a4b5e5c87e7
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-06-30
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:github-pr-3827
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc2-alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc2-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc-alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc2-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:github-pr-3843
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:github-pr-3841
 ```
 <!-- DOCKER_END -->
 
