@@ -20,16 +20,34 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:c1071356f6b226e207c1813293efeea3e9f66409
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-01
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:446aab6d6096933640edd2f08c51b10abb9566e1
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-02
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:2.11.3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:github-pr-3847
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:github-develop
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-bullseye-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:slim-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:slim-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk8-jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk8
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22-jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22-graal
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc2-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc2
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-rc-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oraclelinux9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oracle
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:innovation-oraclelinux9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:innovation-oracle
 ```
 <!-- DOCKER_END -->
 
