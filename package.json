@@ -90,6 +90,7 @@
     "url": "https://github.com/CaoMeiYouRen/dockerhub-sync/issues"
   },
   "dependencies": {
+    "await-to-js": "^3.0.0",
     "dayjs": "^1.11.11",
     "dotenv": "^16.4.5",
     "fs-extra": "^11.2.0",

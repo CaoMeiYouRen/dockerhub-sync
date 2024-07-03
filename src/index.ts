@@ -3,6 +3,7 @@
 import 'zx/globals'
 import Parser from 'rss-parser'
 import fs from 'fs-extra'
+import to from 'await-to-js'
 
 const rssParser = new Parser()
 
@@ -48,8 +49,11 @@ for (const sourceRepo of sourceRepos) {
 
     const rssUrl = new URL(`https://rsshub.app/dockerhub/tag/${sourceRepo}?filter_time=${filterTime}&limit=${limit}&filterout=.sig|chromium-bundled|window|nano`).toString()
 
-    const rssResp = await rssParser.parseURL(rssUrl)
-
+    const [error, rssResp] = await to(rssParser.parseURL(rssUrl))
+    if (error) { // 如果出现异常，跳过本次循环
+        console.error(`error: ${error}`)
+        continue
+    }
     const tags = rssResp.items.map((item) => item.guid.split('@')[0])
 
     console.log(`The tag to be synchronized is ${tags.join(', ')}`)
@@ -66,8 +70,8 @@ for (const sourceRepo of sourceRepos) {
                 console.log(`Synced ${sourceImage} to ${destinationImage}`)
                 dockerTags += destinationImage
                 dockerTags += '\n'
-            } catch (error) {
-                console.error(`exec error: ${error}`)
+            } catch (error2) {
+                console.error(`exec error: ${error2}`)
             }
         }
     }
