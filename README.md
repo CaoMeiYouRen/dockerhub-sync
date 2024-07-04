@@ -20,45 +20,14 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:sha-0f829e6
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:2024-07-04
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:1.1.0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:sha-0610a8d
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:151dc2d3375627deb643160ba81af2cb3707a06c
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-03
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:0e355fe81fd6dcdf1b62c23cb7dda91efed57b58
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-04
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:lts-iron
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:lts-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:lts-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:lts
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-slim-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-slim-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:alpine3.19
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk8-jammy
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk8
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22-jammy
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.2.5-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.2.5
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.2-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:5.0.28-rc0-focal
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oraclelinux9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oracle
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oraclelinux9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oracle
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts
 ```
 <!-- DOCKER_END -->
 
