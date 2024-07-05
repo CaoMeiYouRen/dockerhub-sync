@@ -20,14 +20,19 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:0e355fe81fd6dcdf1b62c23cb7dda91efed57b58
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-04
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:sha-2d8f488
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:2024-07-05
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:1.2.1
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:sha-c0a5267
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:0126dbc1531d330563d05d68bfe97b7f244716e5
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-05
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.2.5-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.2.5
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.2-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-slim-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-slim-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-bookworm
 ```
 <!-- DOCKER_END -->
 
