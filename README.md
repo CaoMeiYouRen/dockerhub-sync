@@ -20,19 +20,8 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:sha-2d8f488
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:2024-07-05
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:1.2.1
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:sha-c0a5267
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:0126dbc1531d330563d05d68bfe97b7f244716e5
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-05
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-slim-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-slim-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0.0-rc11-jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0-rc-jammy
 ```
 <!-- DOCKER_END -->
 
