@@ -20,8 +20,7 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0.0-rc11-jammy
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0-rc-jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
 ```
 <!-- DOCKER_END -->
 
