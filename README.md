@@ -24,11 +24,21 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-d266a37
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-07-08
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-2fb8a41
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-ac376ef
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:6a29ca395191e745f991b9a0643a2fa9a66c8730
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-08
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0.0-rc11-jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0-rc-jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-php8.3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-php8.2
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.10.0-php8.3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.10.0-php8.2
 ```
 <!-- DOCKER_END -->
 
