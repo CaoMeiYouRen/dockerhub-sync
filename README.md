@@ -20,8 +20,15 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-d266a37
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-07-08
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-2fb8a41
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:6a29ca395191e745f991b9a0643a2fa9a66c8730
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-08
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
 ```
 <!-- DOCKER_END -->
 
