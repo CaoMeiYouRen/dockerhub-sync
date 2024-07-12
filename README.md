@@ -20,33 +20,12 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-32edbde
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-07-11
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-98974d8
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-07-12
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:d3f7fda21fd526eca637a2134a111a810e1e0568
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-11
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:d53c5e41dcb2d431ce725a242c006e0004c37fcb
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-12
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.12.4-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.12-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:slim-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:slim-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/registry:3.0.0-beta.1
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:beta-php8.3-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:beta-php8.2-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:beta-php8.1-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:beta-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:beta-6.6-php8.3-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:beta-6.6-php8.2-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:beta-6.6-php8.1-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:beta-6.6-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:beta-6.6-RC3-php8.3-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:beta-6.6-RC3-php8.2-fpm-alpine
 ```
 <!-- DOCKER_END -->
 
