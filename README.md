@@ -21,11 +21,24 @@
 <!-- DOCKER_START -->
 ```
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-98974d8
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-07-12
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-07-13
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:d53c5e41dcb2d431ce725a242c006e0004c37fcb
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-12
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:1.2.0
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:703d3e6917c1f449839da280090cfac03cf5bb57
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-13
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22-jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk21-jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk-jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:8.9.0-jdk22-jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:8.9.0-jdk22
 ```
 <!-- DOCKER_END -->
 
