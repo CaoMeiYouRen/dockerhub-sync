@@ -20,11 +20,19 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:e05191719c72d4c0093a796b250f9f28c733197e
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-14
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:3a13acc01b593bc766e79022b9cc0e6670633152
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-15
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.454-jdk11
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.454-jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.454
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.454-jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.454-slim-jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.454-rhel-ubi8-jdk11
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.454-rhel-ubi9-jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.454-almalinux
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.454-alpine-jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.454-rhel-ubi9-jdk21
 ```
 <!-- DOCKER_END -->
 
