@@ -20,16 +20,42 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:c1071356f6b226e207c1813293efeea3e9f66409
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-01
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:2024-07-16
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3-node20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3.20-node20.15
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:2024-07-16
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3-node20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3.20-node20.15
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-923ba22
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-07-16
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:ad135816fb71e5c149b4877b01f26dd95019cf3d
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-16
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:2.11.3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:github-pr-3847
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:github-develop
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest-jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest-jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.468-jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.468-jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.468
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:slim-jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.468-slim-jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:beta-php8.3-fpm-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:beta-php8.3-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:beta-php8.3-apache
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:beta-php8.3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:beta-php8.2-fpm-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:beta-php8.2-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:beta-php8.2-apache
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:beta-php8.2
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:beta-php8.1-fpm-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:beta-php8.1-fpm
 ```
 <!-- DOCKER_END -->
 
