@@ -20,24 +20,11 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-1ccffaf
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-07-18
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-92e75f8
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-07-19
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:a1a3ab42032680519078b3f1a91ed216aa84957e
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-18
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-bullseye-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-bookworm-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine3.19
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine
 ```
 <!-- DOCKER_END -->
 
