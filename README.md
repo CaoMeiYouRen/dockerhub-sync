@@ -20,33 +20,17 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:1ddc375176184c864df6bda0fd523ebc5eb35f14
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:648a6420a6c8e1c3ce850cbf36b4240010d05ce0
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-21
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:latest-ffmpeg
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.36.0-ffmpeg
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.36.0
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-bullseye-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-bookworm-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:bullseye-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13.0b4-slim-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13.0b4-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13.0b4-alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13.0b4-alpine3.19
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13.0b4-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13-rc-slim-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13-rc-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13-rc-alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13-rc-alpine3.19
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13-rc-alpine
 ```
 <!-- DOCKER_END -->
 
