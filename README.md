@@ -20,17 +20,15 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:648a6420a6c8e1c3ce850cbf36b4240010d05ce0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:d7e02eb33d41e7485238e5384fabbd33299a4f4a
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:latest-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.36.0-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.36.0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.456-slim-jdk11
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.456-slim-jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.456-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.456-alpine-jdk11
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.456-alpine-jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.456-alpine
 ```
 <!-- DOCKER_END -->
 
