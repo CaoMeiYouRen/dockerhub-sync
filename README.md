@@ -20,24 +20,13 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:2024-07-29
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3-node20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3.20-node20.15
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:2024-07-29
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3-node20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3.20-node20.15
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:2024-07-29
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3-node20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3.20-node20.15
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-2ac6492
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-07-28
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-95b67aa
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-07-29
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-355683e
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:a1780e6149a49302a932e29173abca8bb6a841a8
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-28
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-96e598b
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-ade3dd6
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:774839be605f0b6413789f0935ce1947cc62a989
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-29
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
