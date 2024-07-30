@@ -20,16 +20,27 @@
 
 <!-- DOCKER_START -->
 ```
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-fa3b2f1
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-07-30
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-95b67aa
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-07-29
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-96e598b
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-ade3dd6
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:774839be605f0b6413789f0935ce1947cc62a989
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-29
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:646d223835c20ca6da4ff7457c64adb1cf2fc77a
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-07-30
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4.0-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4.0-alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4.0-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4.0
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-alpine3.20
 ```
 <!-- DOCKER_END -->
 
