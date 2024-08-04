@@ -20,24 +20,22 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-7a57fd1
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-08-03
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:1.3.0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:d36d2a7021bad79122f12f1d459f60de45e9eaaf
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-08-03
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:63e375b86f56ce42852aaba6dd9dacd232209d5b
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-08-04
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13.0rc1-slim-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13-rc-slim-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13.0rc1-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13-rc-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13.0rc1-slim-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13.0rc1-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13-rc-slim-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13-rc-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13.0rc1-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:slim-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.12.4-slim-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.12.4-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.12-slim-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.12-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3-slim-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:bookworm
 ```
 <!-- DOCKER_END -->
 
