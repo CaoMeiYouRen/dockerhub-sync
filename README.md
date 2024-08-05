@@ -20,22 +20,21 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:63e375b86f56ce42852aaba6dd9dacd232209d5b
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-08-04
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-a12e8da
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-08-05
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:1f235e79d5e911636cb85ab8093c4464e5deb416
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-08-05
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:slim-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.12.4-slim-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.12.4-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.12-slim-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.12-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3-slim-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.9-slim-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.9-slim-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.9-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.9-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.9-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.9-alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.9-alpine3.19
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.9-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11-slim-bullseye
 ```
 <!-- DOCKER_END -->
 
