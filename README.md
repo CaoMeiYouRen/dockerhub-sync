@@ -20,21 +20,35 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-a12e8da
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-08-05
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-c218d52
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-08-06
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:1f235e79d5e911636cb85ab8093c4464e5deb416
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-08-05
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:9407e44fba1bd47f7e0cfcd0ba713a9c7cf60994
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-08-06
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.9-slim-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.9-slim-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.9-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.9-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.9-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.9-alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.9-alpine3.19
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.9-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11-slim-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-slim-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-slim-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-alpine3.19
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-slim-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0.0-rc16-jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-apache
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2-fpm-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2-apache
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:fpm-alpine
 ```
 <!-- DOCKER_END -->
 
