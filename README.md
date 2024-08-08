@@ -20,41 +20,12 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:edfaed1b7da1a2599dbbdcda861397b9f08101ec
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-08-07
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-fe96fa9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-08-08
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:d9f8019f587fb2abeefdec2618818ce69ef01114
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-08-08
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.452.4-jdk11
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.452.4-almalinux
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.452.4-rhel-ubi8-jdk11
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.452.4-slim-jdk11
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.452.4-alpine-jdk11
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:jdk17
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest-jdk17
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.471-jdk17
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:jdk21
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-bullseye-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-bookworm-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:bullseye-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:bookworm-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:22.6.0-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:22.6.0-bullseye-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:alpine3.19
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.22.6-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.22.6-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.22.6-alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.22.6-alpine3.19
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:7.0.13-rc0-jammy
 ```
 <!-- DOCKER_END -->
 
