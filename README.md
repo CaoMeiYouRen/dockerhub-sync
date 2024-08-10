@@ -21,20 +21,14 @@
 <!-- DOCKER_START -->
 ```
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-6ba28ec
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-08-09
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-08-10
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-php8.3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-php8.2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-php8.1
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11.0-php8.3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11.0-php8.2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11.0-php8.1
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11.0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11-php8.3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11-php8.2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11-php8.1
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:1.3.1
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:937e55b14fc836c8b41cb76e2a518bac0bfb864c
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-08-10
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
 ```
 <!-- DOCKER_END -->
 
