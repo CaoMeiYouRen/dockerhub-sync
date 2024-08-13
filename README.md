@@ -20,10 +20,53 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:937e55b14fc836c8b41cb76e2a518bac0bfb864c
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-08-10
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-f328bab
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-08-13
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:lts-iron
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:lts-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:lts-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:lts
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:hydrogen-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:hydrogen-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:slim-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-slim-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-slim-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-slim-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-slim-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.8.19-slim-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.8.19-slim-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.8.19-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4.0-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4.0
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.2.5-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.2.5
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.2-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.2
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:8.0.39-debian
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:8.0.39-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:8.0-debian
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:8.0-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-apache
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2-apache
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.1-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.1-apache
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.1
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:latest
 ```
 <!-- DOCKER_END -->
 
