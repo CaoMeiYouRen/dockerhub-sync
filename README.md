@@ -20,36 +20,16 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-f328bab
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-08-13
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:a42d44f834e7f70d1428e5f32bba3dd73e1db6aa
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-08-14
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-slim-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-slim-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.19-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-slim-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-slim-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.8.19-slim-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.8.19-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.8-slim-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.8-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4.0-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4.0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.2.5-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.2.5
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.2-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0.0-rc17-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0-rc-noble
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk8-jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk8-focal
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk8
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22-jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22-graal
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk21-jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk21-graal-jammy
 ```
 <!-- DOCKER_END -->
 
