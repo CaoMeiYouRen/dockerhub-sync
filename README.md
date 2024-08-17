@@ -20,16 +20,18 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk8-jammy
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk8-focal
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk8
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22-jammy
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22-graal
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk22
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk21-jammy
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk21-graal-jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-246e140
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-08-17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0.0-rc17-noble
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0-rc-noble
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:7.0.13-rc1-jammy
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:7.0.12-jammy
 ```
 <!-- DOCKER_END -->
 
