@@ -20,18 +20,13 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-246e140
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-08-17
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:04e766d0f5072f360f4edf984150c71b4e3161d8
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-08-18
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:jammy
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0.0-rc17-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0-rc-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:7.0.13-rc1-jammy
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:7.0.12-jammy
 ```
 <!-- DOCKER_END -->
 
