@@ -20,16 +20,29 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-cba4aef
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-08-19
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-14d0cb4
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-08-20
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:096e57d429f0072314cd0dacf7268a04c895a5c2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-08-19
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:632e1723a88950ba9525db8c5dabd1e0cebe19c3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-08-20
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest-jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest-jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.473-jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.473-jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:slim-jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.473
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.473-slim-jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine3.19
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:alpine3.19
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0.0-rc18-noble
 ```
 <!-- DOCKER_END -->
 
