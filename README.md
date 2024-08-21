@@ -20,29 +20,24 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-14d0cb4
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-08-20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-a0be4cd
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-08-21
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:632e1723a88950ba9525db8c5dabd1e0cebe19c3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-08-20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2962c6f64f1710469c2af9b8c305cea38d282bd3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-08-21
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:jdk17
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:jdk21
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest-jdk17
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest-jdk21
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.473-jdk21
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.473-jdk17
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:slim-jdk21
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.473
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.473-slim-jdk21
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine3.19
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:alpine3.19
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0.0-rc18-noble
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oraclelinux9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oracle
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oraclelinux9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oracle
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:innovation-oraclelinux9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:innovation-oracle
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:innovation
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:9.0.1-oraclelinux9
 ```
 <!-- DOCKER_END -->
 
