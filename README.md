@@ -20,23 +20,24 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-017539e
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-08-31
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-3029bf7
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-09-02
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:1.4.2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:a9caa10cf572bec377eeed8cdefb3ff9e3e94641
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-08-31
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:a16886f8d3c9c2c78d3b871badc826883771f2ca
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-09-01
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-php8.3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-php8.2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11.0-php8.3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11.0-php8.2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11.0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11-php8.3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11-php8.2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2-php8.3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-apache
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2-apache
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:apache
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:6.6.1-php8.3-fpm
 ```
 <!-- DOCKER_END -->
 
