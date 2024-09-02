@@ -20,24 +20,20 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-3029bf7
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-09-02
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-e4f04c9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-09-03
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:a16886f8d3c9c2c78d3b871badc826883771f2ca
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-09-01
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-1654dc8
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-09-02
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-8f8a9b4
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-17ba8a8
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-62f7fcd
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-6d8a798
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:b5ad2fa0cb08e4a718285de575a97b107152eea1
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-09-02
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-apache
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2-fpm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2-apache
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:fpm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:apache
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:6.6.1-php8.3-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
 ```
 <!-- DOCKER_END -->
 
