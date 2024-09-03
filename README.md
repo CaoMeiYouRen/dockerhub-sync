@@ -20,20 +20,8 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-e4f04c9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-09-03
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-1654dc8
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-09-02
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-8f8a9b4
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-17ba8a8
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-62f7fcd
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-6d8a798
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:b5ad2fa0cb08e4a718285de575a97b107152eea1
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-09-02
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
 ```
 <!-- DOCKER_END -->
 
