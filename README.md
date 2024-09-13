@@ -20,10 +20,16 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20-slim-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20-slim-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20-alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20-alpine3.19
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-slim-bullseye
 ```
 <!-- DOCKER_END -->
 
