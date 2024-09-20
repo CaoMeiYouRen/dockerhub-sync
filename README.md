@@ -20,8 +20,10 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.0-M01-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.0-M01
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-12a945d
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-09-19
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-c7a5323
 ```
 <!-- DOCKER_END -->
 
