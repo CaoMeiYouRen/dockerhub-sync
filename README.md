@@ -20,10 +20,16 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-12a945d
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-09-19
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-c7a5323
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:1
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:1.24.3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:1-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:1.24.3-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:1.24.2
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:1.24.2-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
 ```
 <!-- DOCKER_END -->
 
