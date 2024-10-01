@@ -20,18 +20,16 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.0-M01-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.0-M01
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4.0-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4.0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.2.5-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.2.5
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:slim-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20-slim-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-slim-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.8.20-slim-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.8.20-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.8-slim-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.8-bullseye
 ```
 <!-- DOCKER_END -->
 
