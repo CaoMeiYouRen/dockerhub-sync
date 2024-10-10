@@ -20,11 +20,16 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0.1-rc0-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0.0-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0-rc-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0-noble
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4.1-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4.1-alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4.1-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4.1
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-alpine3.20
 ```
 <!-- DOCKER_END -->
 
