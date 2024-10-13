@@ -26,11 +26,6 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.38.0
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:2.11.3
 ```
 <!-- DOCKER_END -->
 
