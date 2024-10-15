@@ -20,10 +20,6 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:latest-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.38.0-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.38.0
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
 ```
