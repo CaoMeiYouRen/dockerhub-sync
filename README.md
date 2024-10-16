@@ -20,8 +20,16 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oraclelinux9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oracle
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oraclelinux9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oracle
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:innovation-oraclelinux9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:innovation-oracle
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:innovation
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:9.1.0-oraclelinux9
 ```
 <!-- DOCKER_END -->
 
