@@ -20,16 +20,25 @@
 
 <!-- DOCKER_START -->
 ```
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:slim-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20-slim-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-slim-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:8.0.40-debian
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:8.0.40-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:8.0-debian
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:8.0-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oraclelinux9
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oracle
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oraclelinux9
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oracle
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:innovation-oraclelinux9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:innovation-oracle
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:innovation
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:9.1.0-oraclelinux9
 ```
 <!-- DOCKER_END -->
 
