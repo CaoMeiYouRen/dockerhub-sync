@@ -20,15 +20,16 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:slim-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20-slim-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20-slim
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-slim-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20-slim-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20-bullseye
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:8.0.40-debian
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:8.0.40-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:8.0-debian
