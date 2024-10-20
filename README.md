@@ -20,17 +20,15 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:090f8f3498dab32a96ee733ee6525b260f426e37
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-10-19
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:4505df7c1629929b90b342d69c746114263143c8
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20-bullseye
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-bullseye
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.14.0a1-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.14-rc-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.14.0a1-bullseye
 ```
 <!-- DOCKER_END -->
 
