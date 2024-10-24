@@ -47,7 +47,7 @@ let dockerTags = ''
 for (const sourceRepo of sourceRepos) {
     console.log(`Syncing ${sourceRepo} to multiple destinations`)
 
-    const rssUrl = new URL(`https://rsshub.app/dockerhub/tag/${sourceRepo}?filter_time=${filterTime}&limit=${limit}&filterout=.sig|chromium-bundled|window|nano|github|develop|beta|alpha`).toString()
+    const rssUrl = new URL(`https://rsshub.cmyr.dev/dockerhub/tag/${sourceRepo}?filter_time=${filterTime}&limit=${limit}&filterout=.sig|chromium-bundled|window|nano|github|develop|beta|alpha`).toString()
 
     const [error, rssResp] = await to(rssParser.parseURL(rssUrl))
     if (error) { // 如果出现异常，跳过本次循环
