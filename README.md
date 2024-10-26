@@ -20,27 +20,25 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:sha-5f946d4
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:2024-10-25
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:sha-bdc80d5
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:2024-10-24
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:sha-41aa93f
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:2024-10-23
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-0ebaa81
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-10-25
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-10-26
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:1.8.0
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-10-25
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-d188250
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-aa8cd85
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-10-24
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-d171f96
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-4382b01
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-10-23
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:b76ffa1154cfca6b2968aa6384c6b8ce31f533d9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-10-25
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:a71410fdd770c5a66a19207ebcef13e4b76859d8
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-10-26
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:nightly2
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:nightly2-rootless
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:base2
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:base2-slim
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:test
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:slim
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-slim
@@ -69,6 +67,7 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:8-jdk23-jammy
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:8-jdk23
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:6.9.4-jdk11-focal
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:6.9-jdk11-focal
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:noble
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2-fpm-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:fpm-alpine
