@@ -26,11 +26,8 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:1.8.0
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-10-25
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-d188250
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-aa8cd85
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-10-24
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-d171f96
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:a71410fdd770c5a66a19207ebcef13e4b76859d8
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-10-26
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:abed9a058c6935ca6a723cfb535803024ccc9807
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-10-27
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:nightly2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:nightly2-rootless
