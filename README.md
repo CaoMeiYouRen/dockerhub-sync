@@ -20,14 +20,14 @@
 
 <!-- DOCKER_START -->
 ```
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-2cb429f
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-10-28
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-0ebaa81
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-10-26
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:1.8.0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-10-25
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-d188250
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:abed9a058c6935ca6a723cfb535803024ccc9807
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-10-27
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:e0b40aaddf348888bedf8f0ed2b74098415626c6
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-10-28
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:nightly2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:nightly2-rootless
@@ -46,35 +46,7 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine3.20
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine3.19
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:23.0.1_11-jre-ubi9-minimal
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:23.0.1_11-jre-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:23.0.1_11-jdk-ubi9-minimal
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:23.0.1_11-jdk-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:23-ubi9-minimal
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:23-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:23-jre-ubi9-minimal
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:23-jre-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk23-jammy
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk23
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:8.10.2-jdk23-jammy
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:8.10.2-jdk23
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:8.10-jdk23-jammy
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:8.10-jdk23
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:8-jdk23-jammy
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:8-jdk23
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:6.9.4-jdk11-focal
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:6.9-jdk11-focal
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-php8.3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-php8.2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11.0-php8.3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11.0-php8.2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11.0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11-php8.3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11-php8.2
 ```
 <!-- DOCKER_END -->
 
