@@ -20,22 +20,27 @@
 
 <!-- DOCKER_START -->
 ```
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-c3d378b
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-11-02
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-b7b3928
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-e1af31f
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-d86da37
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-2e80b24
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-11-01
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-363fe80
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-10-31
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-19cf2dd
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-2687afa
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-10-30
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-9872013
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-585e10d
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-10-29
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-6e36a82
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:c8496f370b0ddde572420620332511d0b848e726
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-10-31
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:f9ec483baec1189c5d2234e0fb057a26d60a4326
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-11-01
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:b8c7278dc6512e677c634be22ba373f55ace88d0
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:nightly2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:nightly2-rootless
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:latest-ffmpeg
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.39.0-ffmpeg
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.39.0
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.479.1-lts-jdk17
@@ -61,6 +66,10 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:lts-alpine3.20
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:lts-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:lts
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:jod-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.0-M02-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.0-M02-alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.0-M02-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.0-M02
 ```
 <!-- DOCKER_END -->
 
