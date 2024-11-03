@@ -20,18 +20,18 @@
 
 <!-- DOCKER_START -->
 ```
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-e2e0e64
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-11-03
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-3917a3a
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-11-02
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:1.9.0
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-f065463
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-c3d378b
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-b7b3928
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-e1af31f
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-d86da37
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-2e80b24
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:74f56f77a425c090cdf1de9889bdaa226f06bd34
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-11-02
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:fd5a888f185d97c7679dfb724a63b31b6de51638
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-11-03
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:nightly2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:nightly2-rootless
@@ -45,8 +45,8 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.39.0-ffmpeg
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.39.0
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:0.23.0-rc.0
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:test
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:0.23.0-rc.0
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.0-M02-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.0-M02-alpine3.20
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.0-M02-alpine
