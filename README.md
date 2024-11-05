@@ -20,11 +20,33 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/cookiecloud:2023.01.20.16.39
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/cookiecloud:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/cookiecloud:2023.01.19.14.37
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/cookiecloud:2023.01.19.04.19
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/cookiecloud:2023.01.19.03.36
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-c797d1f
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-11-05
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-e49e996
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-82d0c56
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-95aa8c3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-bdf728a
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-11-04
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-2b26cd4
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-0172027
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:cf7ce2470b1381cef2efc811e9c338a6ff73e866
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-11-05
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:nightly2
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:nightly2-rootless
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest-jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest-jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.484-jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.484-jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.484
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:slim-jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.484-slim-jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:v3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:test
 ```
 <!-- DOCKER_END -->
 
