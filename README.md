@@ -20,18 +20,18 @@
 
 <!-- DOCKER_START -->
 ```
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-017f80e
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-11-06
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-c797d1f
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-11-05
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-e49e996
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-82d0c56
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-95aa8c3
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-bdf728a
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-11-04
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-2b26cd4
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-0172027
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:cf7ce2470b1381cef2efc811e9c338a6ff73e866
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-11-05
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:40bab08529ffc1430c8b84cbf12cf580e8df5cf4
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-11-06
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:nightly2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:nightly2-rootless
