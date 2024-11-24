@@ -8,8 +8,16 @@ import { to } from 'await-to-js'
 const rssParser = new Parser()
 
 // 格式 caomeiyouren/rss-impact-server
-const sourceRepos = process.env.SOURCE_REPOS?.split('\n')?.filter(Boolean) || []
-
+let sourceRepos = process.env.SOURCE_REPOS?.split('\n')?.filter(Boolean) || []
+// 同步 caomeiyouren 仓库下 7 天内的镜像
+const NAMESPACE = 'caomeiyouren'
+const FILTER_TIME = 7 * 24 * 60 * 60
+const caomeiyourenSourceReposUrl = new URL(`https://rsshub.cmyr.dev/dockerhub/repositories/${NAMESPACE}?limit=100&filter_time=${FILTER_TIME}`).toString()
+const [sourceReposError, caomeiyourenSourceReposResp] = await to(rssParser.parseURL(caomeiyourenSourceReposUrl))
+if (sourceReposError) {
+    console.error(`Error: ${sourceReposError}`)
+}
+sourceRepos = [...new Set([...sourceRepos, ...caomeiyourenSourceReposResp.items.map((item) => `${NAMESPACE}/${item.title}`)])]
 if (!sourceRepos?.length) {
     console.error('Error: SOURCE_REPOS environment variable is not set or is empty.')
     process.exit(1)
