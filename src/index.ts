@@ -51,13 +51,13 @@ const syncFormat = 'v2s2'
 const filterTime = (parseInt(process.env.SYNC_FILTER_TIME) || 2) * 24 * 60 * 60 // 48 hours in seconds 172800
 
 let dockerTags = ''
-
+const filteroutRegex = /\.sig|chromium-bundled|window|nano|github|develop|beta|alpha|test|nightly|rc|rc\.|rc-/
 for (const sourceRepo of sourceRepos) {
     console.log(`Syncing ${sourceRepo} to multiple destinations`)
     const search = new URLSearchParams({
         filter_time: filterTime.toString(),
         limit: limit.toString(),
-        filterout: '\\.sig|chromium-bundled|window|nano|github|develop|beta|alpha|test|nightly|rc|rc\\.|rc-|rc_',
+        filterout: filteroutRegex.source,
     })
     const rssUrl = new URL(`https://rsshub.cmyr.dev/dockerhub/tag/${sourceRepo}?${search}`).toString()
 
@@ -73,7 +73,9 @@ for (const sourceRepo of sourceRepos) {
     for (const tag of tags) {
         const [namespace, projectName, rawTag] = tag.split(/:|\//)
         const sourceImage = tag
-
+        if (filteroutRegex.test(rawTag)) { // 过滤掉一些不想要的 tag
+            continue
+        }
         for (const { registry, username, password } of destinationCredentials) {
             const destinationImage = `${registry}/${projectName}:${rawTag}`
             try {
