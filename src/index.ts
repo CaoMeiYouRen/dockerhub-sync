@@ -51,7 +51,7 @@ const syncFormat = 'v2s2'
 const filterTime = (parseInt(process.env.SYNC_FILTER_TIME) || 2) * 24 * 60 * 60 // 48 hours in seconds 172800
 
 let dockerTags = ''
-const filteroutRegex = /:(\.sig|chromium-bundled|window|nano|github|develop|beta|alpha|test|nightly|rc\.|rc-)/
+const filteroutRegex = /:(.*\.sig|.*chromium-bundled|.*window|.*nano|github.*|.*develop|.*beta|.*alpha|test|nightly.*|.*rc\.|.*rc-)/
 for (const sourceRepo of sourceRepos) {
     console.log(`Syncing ${sourceRepo} to multiple destinations`)
     const search = new URLSearchParams({
@@ -73,7 +73,7 @@ for (const sourceRepo of sourceRepos) {
     for (const tag of tags) {
         const [namespace, projectName, rawTag] = tag.split(/:|\//)
         const sourceImage = tag
-        if (filteroutRegex.test(rawTag)) { // 过滤掉一些不想要的 tag
+        if (filteroutRegex.test(tag)) { // 过滤掉一些不想要的 tag
             continue
         }
         for (const { registry, username, password } of destinationCredentials) {
