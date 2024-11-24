@@ -66,16 +66,18 @@ for (const sourceRepo of sourceRepos) {
         console.error(`error: ${error}`)
         continue
     }
-    const tags = rssResp.items.slice(0, limit).map((item) => item.guid.split('@')[0])
+    const tags = rssResp.items.slice(0, limit)
+        .map((item) => item.guid.split('@')[0])
+        .filter((tag) => !filteroutRegex.test(tag))
 
     console.log(`The tag to be synchronized is ${tags.join(', ')}`)
 
     for (const tag of tags) {
         const [namespace, projectName, rawTag] = tag.split(/:|\//)
         const sourceImage = tag
-        if (filteroutRegex.test(tag)) { // 过滤掉一些不想要的 tag
-            continue
-        }
+        // if (filteroutRegex.test(tag)) { // 过滤掉一些不想要的 tag
+        //     continue
+        // }
         for (const { registry, username, password } of destinationCredentials) {
             const destinationImage = `${registry}/${projectName}:${rawTag}`
             try {
