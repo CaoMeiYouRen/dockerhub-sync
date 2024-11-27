@@ -8,7 +8,7 @@ import { to } from 'await-to-js'
 const rssParser = new Parser()
 
 // 格式 caomeiyouren/rss-impact-server
-let sourceRepos = process.env.SOURCE_REPOS?.split('\n')?.filter(Boolean) || []
+let sourceRepos = process.env.SOURCE_REPOS?.split('\n')?.map((repo) => repo.trim())?.filter(Boolean) || []
 // 同步 caomeiyouren 仓库下 7 天内的镜像
 const NAMESPACE = 'caomeiyouren'
 const FILTER_TIME = 7 * 24 * 60 * 60
@@ -17,11 +17,14 @@ const [sourceReposError, caomeiyourenSourceReposResp] = await to(rssParser.parse
 if (sourceReposError) {
     console.error(`Error: ${sourceReposError}`)
 }
-sourceRepos = [...new Set([...sourceRepos, ...caomeiyourenSourceReposResp.items.map((item) => `${NAMESPACE}/${item.title}`)])]
+// 去重
+sourceRepos = [...new Set([...sourceRepos, ...caomeiyourenSourceReposResp.items.map((repo) => repo.title.trim()).filter(Boolean).map((item) => `${NAMESPACE}/${item}`)])]
 if (!sourceRepos?.length) {
     console.error('Error: SOURCE_REPOS environment variable is not set or is empty.')
     process.exit(1)
 }
+
+console.log(`sourceRepos: ${sourceRepos.join('\n')}`)
 
 function parseDockerUrl(url: string) {
     const regex = /^docker:\/\/([^:]+):([^@]+)@(.+)$/
