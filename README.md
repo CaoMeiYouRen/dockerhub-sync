@@ -20,37 +20,37 @@
 
 <!-- DOCKER_START -->
 ```
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-a71a854
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-12-02
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-675a5c9
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-c15477c
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-11-30
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:1.13.0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-11-29
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:5cd238205725f00a8c8830bf824aa2b06427b8c6
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-11-30
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:44e0622b5bfe2c65784b9c518755f3406bdcd1cb
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-12-02
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:v3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub-never-die:sha-8c67fb6
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub-never-die:2024-12-02
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub-never-die:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub-never-die:sha-4fb1f2c
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub-never-die:2024-11-30
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/download-start-dash:sha-fccaa83
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/download-start-dash:2024-12-02
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/download-start-dash:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/download-start-dash:sha-66ff58b
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/download-start-dash:2024-12-01
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/download-start-dash:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/download-start-dash:sha-fc2f321
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/download-start-dash:sha-bc9eecd
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/download-start-dash:sha-d3392b3
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/download-start-dash:sha-e2f312c
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/download-start-dash:sha-82acafc
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/download-start-dash:sha-7bf5aec
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/download-start-dash:sha-0ab6cb4
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub-never-die:sha-4fb1f2c
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub-never-die:2024-11-30
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub-never-die:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub-never-die:sha-7179b04
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-bb457e9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2024-11-29
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-e7d86a5
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2024-12-02
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-75d82e4
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-399139f
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-e882d00
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-be397ca
 ```
 <!-- DOCKER_END -->
 
