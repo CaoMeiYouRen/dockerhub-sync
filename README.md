@@ -20,18 +20,21 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:2024-12-14
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:2024-12-16
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3-node22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3.21-node22.11
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:2024-12-14
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:2024-12-14
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:2024-12-16
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3-node22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3.21-node22.11
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:2024-12-14
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:2024-12-14
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:2024-12-16
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3-node22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3.21-node22.11
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:2024-12-14
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-402e00b
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-12-15
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
@@ -42,20 +45,18 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-d3257ad
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-12-14
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-4f5a4c8
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-12-13
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:655f7ac52f12b465b0b65f17613e51278719bea8
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-12-14
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:8952721ce66ba01b884e3b6468bb26517d7c8810
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-12-15
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:latest-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.41.0-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.41.0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.14.0a2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:stable
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:0.23
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:0.23.0
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wewe-rss-sqlite:v2.6.1
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wewe-rss-sqlite:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wewe-rss-sqlite:v2.6.0
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:6.0.20-rc3-jammy
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:6.0.20-rc3
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm-alpine
@@ -68,6 +69,11 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-php8.1
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11.0-php8.3
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11.0-php8.2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.11.0-php8.1
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:2024-12-16
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:alpine3-node22
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:alpine3.21-node22.11
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:2024-12-14
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub-never-die:sha-6d75c88
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub-never-die:2024-12-15
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub-never-die:latest
@@ -103,10 +109,6 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-cefdbb1
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-cefdbb1
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-be7dce1
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-be7dce1
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:2024-12-14
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:alpine3-node22
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:alpine3.21-node22.11
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:latest
 ```
 <!-- DOCKER_END -->
 
