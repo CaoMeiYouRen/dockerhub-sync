@@ -20,14 +20,14 @@
 
 <!-- DOCKER_START -->
 ```
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-f4f2bcb
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-12-28
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-2a4ff2e
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-12-27
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:b3b0f9dcf33e571402c33500a030bfcd98b0d26f
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-12-27
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:6233163972845dab76194c944be89898b07a6451
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-12-28
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/one-api:latest
@@ -61,20 +61,6 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.23.4-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.23.4
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.23-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.23
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.0-M02-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.0-M02
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4.1-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4.1
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.4
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.2.6-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:7.2.6
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:8.0.40-debian
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:8.0.40-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:8.0-debian
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:8.0-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-apache
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:6.7.1-php8.3-apache
@@ -96,8 +82,6 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2024-12-27
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-1165a60
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-1165a60
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-408792e
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2024-12-25
 ```
 <!-- DOCKER_END -->
 
