@@ -20,18 +20,6 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:2024-12-30
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3-node22
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3.21-node22.11
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:2024-12-30
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3-node22
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3.21-node22.11
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:2024-12-30
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3-node22
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3.21-node22.11
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-1808546
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2025-01-01
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
@@ -40,29 +28,28 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-12-31
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-89fb275
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2024-12-30
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-caf0d8b
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:0ad07d2d8849c3ca6ec14b9f05f9559b055d93e4
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2024-12-31
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:415793f55a0cc300575d325ef5f0a013cd47f8cf
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-01-01
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-aio
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-aria2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:2.12.2
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-70fbaa0
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-01-01
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-70fbaa0
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-01-01
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-e32b0e1
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2024-12-30
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-e32b0e1
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2024-12-30
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:sha-4d121d6
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:2024-12-30
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-e32b0e1
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2024-12-30
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-e32b0e1
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2024-12-30
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:2024-12-30
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:alpine3-node22
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:alpine3.21-node22.11
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:latest
 ```
 <!-- DOCKER_END -->
 
