@@ -32,23 +32,28 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:2025-01-20
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3-node22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3.21-node22.11
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-4bcedb1
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2025-01-20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:a99d1af9a7e4ff043cbaa6329f0b2ae13784e3ec
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-01-19
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-aio
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-aria2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:sha-d4dc78e
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:2025-01-20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-ac8d46b
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-01-20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-ac8d46b
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-01-20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-c653d8a
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:2025-01-20
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:alpine3-node22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:alpine3.21-node22.11
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wechat-official-helper:sha-c5eaa0b
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wechat-official-helper:2025-01-18
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wechat-official-helper:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wechat-official-helper:sha-61e7f1b
 ```
 <!-- DOCKER_END -->
 
