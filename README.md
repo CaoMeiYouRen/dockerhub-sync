@@ -20,18 +20,16 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-148456d
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2025-01-27
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-8962865
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2025-01-29
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:b4bc35a45e3a3859b5d662413f2a72df03d7f467
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-01-27
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:d4c3bc942714d389ef7dbdd14510dac0d20aa84e
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-01-29
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-aio
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-aria2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:latest-aio
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.42.0-aio
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:jdk17
@@ -44,6 +42,10 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest-jdk21
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.495-jdk21
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:slim-jdk21
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.495-slim-jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:stable
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:0.23
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:0.23.1
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk8-jammy
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk8-focal
@@ -54,15 +56,15 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk23-jammy
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk23-graal
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk23-corretto
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk23-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:sha-0bed4c5
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:2025-01-27
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-ae0dd62
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-01-27
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:5.0.31-focal
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:5.0.31
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-cdb211f
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-01-29
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-ae0dd62
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-01-27
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-cdb211f
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-01-29
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-cbd87b5
 ```
 <!-- DOCKER_END -->
 
