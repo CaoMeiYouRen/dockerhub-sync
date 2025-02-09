@@ -12,7 +12,7 @@ let sourceRepos = process.env.SOURCE_REPOS?.split('\n')?.map((repo) => repo.trim
 // 同步 caomeiyouren 仓库下 7 天内的镜像
 const NAMESPACE = 'caomeiyouren'
 const FILTER_TIME = 7 * 24 * 60 * 60
-const caomeiyourenSourceReposUrl = new URL(`https://rsshub.cmyr.dev/dockerhub/repositories/${NAMESPACE}?limit=100&filter_time=${FILTER_TIME}`).toString()
+const caomeiyourenSourceReposUrl = new URL(`https://rsshub.app/dockerhub/repositories/${NAMESPACE}?limit=100&filter_time=${FILTER_TIME}`).toString()
 const [sourceReposError, caomeiyourenSourceReposResp] = await to(rssParser.parseURL(caomeiyourenSourceReposUrl))
 if (sourceReposError) {
     console.error(`Error: ${sourceReposError}`)
@@ -62,7 +62,7 @@ for (const sourceRepo of sourceRepos) {
         limit: '20',
         // filterout: filteroutRegex.source,
     })
-    const rssUrl = new URL(`https://rsshub.cmyr.dev/dockerhub/tag/${sourceRepo}?${search}`).toString()
+    const rssUrl = new URL(`https://rsshub.app/dockerhub/tag/${sourceRepo}?${search}`).toString()
 
     const [error, rssResp] = await to(rssParser.parseURL(rssUrl))
     if (error) { // 如果出现异常，跳过本次循环
