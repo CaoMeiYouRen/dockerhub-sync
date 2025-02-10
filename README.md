@@ -20,41 +20,10 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:deeed2068bbb8f907c4c9b2a5d3c1a7c865e3306
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-02-06
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:2.12.3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:2.27.0-rc2-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:2.27.0-rc2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:2.27.0-rc2-linux-arm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:2.27.0-rc2-linux-amd64-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:2.27.0-rc2-linux-ppc64le-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:2.27.0-rc2-linux-arm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:2.27.0-rc2-linux-amd64
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:2.27.0-rc2-linux-ppc64le
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.24rc3-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.24rc3-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.24rc3-alpine3.21
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.24rc3-alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.24rc3-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.24rc3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0.5-rc1-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0.5-rc1
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0-rc
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-975a9fb
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-02-07
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-975a9fb
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-02-07
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-7666fa9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-02-06
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-7666fa9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-02-06
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/one-api:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/one-api:v0.6.11-preview.5
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/one-api:v0.6.11-preview.4
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/one-api:v0.6.11-preview.3
 ```
 <!-- DOCKER_END -->
 
