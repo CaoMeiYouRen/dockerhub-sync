@@ -20,14 +20,26 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:2025-02-17
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3-node22
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3.21-node22.13
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:2025-02-17
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3-node22
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3.21-node22.13
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-0106521
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2025-02-18
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-7273a12
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2025-02-17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:f4225856b54bf06cea1ced04481bc7c9d026702a
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-02-18
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest-jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.498-jdk17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.498
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:latest-jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.498-jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:slim-jdk21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.498-slim-jdk21
 ```
 <!-- DOCKER_END -->
 
