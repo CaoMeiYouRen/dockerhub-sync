@@ -20,16 +20,22 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-d8b1e18
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2025-02-21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:2025-02-24
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3-node22
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3.21-node22.13
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:2025-02-24
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3-node22
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3.21-node22.13
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:2025-02-24
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3-node22
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3.21-node22.13
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-faf36ca
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2025-02-23
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-e8887d5
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-268fa06
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-9bfd249
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2025-02-20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:20ee222c3ffbc04404d762eada53adfdd6075cff
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-02-21
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-89fa9c1
 ```
 <!-- DOCKER_END -->
 
