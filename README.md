@@ -28,13 +28,6 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:2025-
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3-node22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3.21-node22.13
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-727dc00
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2025-03-01
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:1.15.1
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:84ec717db9bf954ce72f3deaae6ebb087e2f30af
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-03-01
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
 ```
 <!-- DOCKER_END -->
 
