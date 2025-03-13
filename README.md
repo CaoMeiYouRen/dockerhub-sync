@@ -20,14 +20,44 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:2025-03-03
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3-node22
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3.21-node22.13
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:2025-03-03
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3-node22
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3.21-node22.13
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-2117834
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2025-03-13
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-a9737ac
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2025-03-12
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:2
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:2.12.3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:stable
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:0.24
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:0.24.1
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-bullseye-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-bookworm-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-alpine3.21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:20.19.0-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.14.0a5
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:8u442-b06-jre
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-77c7b34
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-77c7b34
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-03-13
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-03-13
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-4a8bd05
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-03-12
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-4a8bd05
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-03-12
 ```
 <!-- DOCKER_END -->
 
