@@ -20,17 +20,28 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:cf8766a74ab51977af7a03a633c6c68cdf20e58f
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-04-05
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:2025-04-07
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3-node22
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3.21-node22.13
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:2025-04-07
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3-node22
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3.21-node22.13
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:2025-04-07
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3-node22
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3.21-node22.13
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:81a5807bf4b2a9dce824889befb33f82e687fb6e
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-04-06
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-b512b46
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-04-04
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-b512b46
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-04-04
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:2025-04-07
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:alpine3-node22
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:alpine3.21-node22.13
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:latest
 ```
 <!-- DOCKER_END -->
 
