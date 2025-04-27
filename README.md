@@ -20,33 +20,16 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:0fc3d5c1bc24b6c303933a0e645af08df5ccf30d
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-04-26
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:e543a92ee68622d0a97960af49d2d33ddebfde4b
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-04-27
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-aio
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-aria2
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk8-corretto-al2023
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk8-corretto
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk21-corretto-al2023
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk21-corretto
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk17-corretto-al2023
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk17-corretto
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk11-corretto-al2023
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk11-corretto
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk-lts-and-current-corretto-al2023
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk-lts-and-current-corretto
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:sha-e13362c
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:2025-04-26
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:sha-1470f55
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:2025-04-25
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-49fda84
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-04-25
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-49fda84
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-04-25
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
 ```
 <!-- DOCKER_END -->
 
