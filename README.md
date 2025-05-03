@@ -20,8 +20,8 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:b638c778487cc86e22d52c3692d9511a8b6b2ef1
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-05-02
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:6bbf2f0289727726a729ca9be97d1423278b84da
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-05-03
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-aio
@@ -29,6 +29,7 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-aria2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:lts
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:latest
@@ -50,32 +51,17 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk11-corretto-al2023
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk11-corretto
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:noble
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4-fpm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4-apache
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-apache
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:sha-a558617
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:2025-05-04
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:sha-b0c68eb
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:2025-05-03
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-1f958a2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-05-02
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-1f958a2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-05-02
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-f22cee3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-05-01
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-f22cee3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-05-01
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:sha-b2658c6
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:2025-05-01
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:sha-a869803
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:2025-05-01
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/push-all-in-cloud:latest
 ```
 <!-- DOCKER_END -->
 
