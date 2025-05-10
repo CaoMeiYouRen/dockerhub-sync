@@ -20,9 +20,11 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:049adef23d94ff0ef7f8df143f8685c42f2d77e7
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-05-09
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:723972c847e0161025395d68f065dd52dd85a411
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-05-10
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:lts
@@ -43,17 +45,17 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine3.21
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.14.0b1-slim-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.14.0b1-slim-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.14.0b1-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.14.0b1-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.14.0b1-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.14.0b1-alpine3.21
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.14.0b1-alpine3.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.14.0b1-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.14.0b1
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10.17-alpine3.21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10.17-alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10.17-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10-alpine3.21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10-alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.12.10-alpine3.21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.12.10-alpine3.20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.12.10-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.12-alpine3.21
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-apache
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-php8.3
@@ -61,12 +63,18 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.12.0-php8.3
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.12-php8.3
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2-php8.3
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:6.8.1-php8.3-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:6.8.1-php8.3-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:6.8.1-php8.3-apache
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:6.8.1-php8.3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:sha-53693df
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:2025-05-11
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:sha-a76aaef
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:2025-05-10
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:1.1.0
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:sha-bf0f240
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:sha-8e06a05
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:sha-445d427
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:2025-05-09
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:sha-16bbc48
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:sha-da1fca9
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-eb1542e
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-05-09
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
@@ -74,9 +82,6 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-eb1542e
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-05-09
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-5251bb0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-4af33ad
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-05-08
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-4af33ad
 ```
 <!-- DOCKER_END -->
 
