@@ -20,13 +20,13 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-502daae0c1574e21cd76387feefd0173b8bca519
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-31d15d63b294c08acbdcbb8bfbdb72e2276443eb
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-2025-05-18
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:502daae0c1574e21cd76387feefd0173b8bca519
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:31d15d63b294c08acbdcbb8bfbdb72e2276443eb
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-05-18
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-3cfbe13c4f82533c8f5f4ca2b03ca154e1b3fd75
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-502daae0c1574e21cd76387feefd0173b8bca519
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:sha-8daede5
