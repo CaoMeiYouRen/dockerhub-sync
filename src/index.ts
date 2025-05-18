@@ -54,7 +54,7 @@ const syncFormat = 'v2s2'
 const filterTime = (parseInt(process.env.SYNC_FILTER_TIME) || 2) * 24 * 60 * 60 // 48 hours in seconds 172800
 
 let dockerTags = ''
-const filteroutRegex = /:(.*\.sig|.*chromium-bundled|.*window|.*nano|github.*|.*develop|.*beta|.*alpha|test|nightly.*|.*rc\.|.*rc-)/
+const filteroutRegex = /:(.*\.sig|.*window|.*nano|github.*|.*develop|.*beta|.*alpha|test|nightly.*|.*rc\.|.*rc-)/
 for (const sourceRepo of sourceRepos) {
     console.log(`Syncing ${sourceRepo} to multiple destinations`)
     const search = new URLSearchParams({
