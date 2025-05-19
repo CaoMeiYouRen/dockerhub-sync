@@ -20,19 +20,25 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-31d15d63b294c08acbdcbb8bfbdb72e2276443eb
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-2025-05-18
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-fddcfec
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2025-05-19
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-48ee4935c8ba7d2e74f760ad049ed7dfb557b67f
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-2025-05-19
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:31d15d63b294c08acbdcbb8bfbdb72e2276443eb
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-05-18
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:48ee4935c8ba7d2e74f760ad049ed7dfb557b67f
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-05-19
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-502daae0c1574e21cd76387feefd0173b8bca519
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-c276eb9661f57ff9138de9f10f764f33d4b80418
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:sha-8daede5
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:2025-05-17
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:1.2.0
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-c71f8e7
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-05-19
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-c71f8e7
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-05-19
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
 ```
 <!-- DOCKER_END -->
 
