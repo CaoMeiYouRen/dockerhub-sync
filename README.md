@@ -20,13 +20,13 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-a4cc4204a8bbf78388514236bc422a875cf45219
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-2270c991b720423357117874db08ef557d41f9c6
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-2025-06-06
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:a4cc4204a8bbf78388514236bc422a875cf45219
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2270c991b720423357117874db08ef557d41f9c6
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-06-06
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-4e840c617ea94146232bb4cbdf2600905f60255a
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-a4cc4204a8bbf78388514236bc422a875cf45219
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
@@ -51,15 +51,19 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk8-corretto-al2023
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk8-corretto
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk8
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4-fpm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4-apache
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-apache
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-php8.4
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-php8.3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.12.0-php8.4
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.12.0-php8.3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.12-php8.4
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.12-php8.3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2-php8.4
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2-php8.3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:sha-77831f4
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:2025-06-07
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:1.2.1
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-1435183
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-06-06
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
@@ -67,12 +71,6 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-1435183
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-06-06
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-668758b
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-be7fa68
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-06-05
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-be7fa68
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:sha-77831f4
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:2025-06-05
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:latest
 ```
 <!-- DOCKER_END -->
 
