@@ -23,28 +23,20 @@
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-84336d1
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2025-06-21
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-3779854c8e20a59ea601ad447fd9931d908b56c5
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-2025-06-20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-92cb64dfe14413aef62cb7d23d4de206d90a7b87
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-2025-06-22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:3779854c8e20a59ea601ad447fd9931d908b56c5
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-06-20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:92cb64dfe14413aef62cb7d23d4de206d90a7b87
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-06-22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-6059b5674f06577664923410f183d56fd9511a99
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-d6ea75914fdf23baeec6898fa4279f567255b414
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.2-m01-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.2-m01-alpine3.22
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.2-m01-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.2-m01
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:sha-d95d8a6
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:2025-06-21
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:1.2.1
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-6cde9dd
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-06-20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-6cde9dd
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-06-20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
 ```
 <!-- DOCKER_END -->
 
