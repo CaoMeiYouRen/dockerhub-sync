@@ -20,26 +20,35 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-b7c4574cc6954d968d9b0a2f4048d13884cba25d
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-2025-07-05
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-9e5abb2
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2025-07-07
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-1c4bd0a0c3d3d35abe0e75121536728233b56376
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-2025-07-07
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:b7c4574cc6954d968d9b0a2f4048d13884cba25d
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-07-05
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:1c4bd0a0c3d3d35abe0e75121536728233b56376
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-07-07
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-a8f770d335f80f5b40ed42d52723b99261d74e31
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-81ef9775b49290682475879c6faa626743617f88
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-php8.4
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.12.0-php8.4
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.12-php8.4
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2-php8.4
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.1-fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:fpm-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-php8.3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:alpine3.21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.0.3-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.0.3-alpine3.21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.0.3-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.0.3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.0-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.0-alpine3.21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-36f3277
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-07-07
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-36f3277
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-07-07
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
 ```
 <!-- DOCKER_END -->
 
