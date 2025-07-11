@@ -20,19 +20,16 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-80e1ad6f6622a3743f022d8acf43ec79f53141fe
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-2025-07-10
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-3e0880f24491de584e54af66221798adf82e2fcb
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-2025-07-11
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:80e1ad6f6622a3743f022d8acf43ec79f53141fe
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-07-10
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:3e0880f24491de584e54af66221798adf82e2fcb
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-07-11
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-0c9d4ce076a351a4f0a8db3d4626ba748990489a
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-9a393a1c4af457e9dcd544fee03e13c40195b2d2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:2.12.6
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:2.12.5
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine3.22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine
@@ -50,16 +47,26 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:8u452-b09-jre
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oraclelinux9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oracle
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oraclelinux9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oracle
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:innovation-oraclelinux9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:innovation-oracle
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:innovation
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:9.3.0-oraclelinux9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-7ad2d3a
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-07-11
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-7ad2d3a
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-07-11
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-5eefbf2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-07-10
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-5eefbf2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-07-10
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-1207648
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-07-09
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-1207648
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-07-09
 ```
 <!-- DOCKER_END -->
 
