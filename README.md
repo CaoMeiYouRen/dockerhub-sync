@@ -20,48 +20,20 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-bef0e528831e53772aa2b2e1407f736ba28fb0c0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-2025-08-09
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-20b67e1402b9680e2d39abfa0ae20f6982e693df
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-2025-08-10
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:bef0e528831e53772aa2b2e1407f736ba28fb0c0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-08-09
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:20b67e1402b9680e2d39abfa0ae20f6982e693df
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-08-10
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-cc983c878b5e6b131a87b0a694c40313e4b9c4d2
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-bef0e528831e53772aa2b2e1407f736ba28fb0c0
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:alpine3.21
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13.6-alpine3.21
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.13-alpine3.21
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3-alpine3.22
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3-alpine3.21
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:slim-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:slim-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0.13-rc1
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0-rc
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oraclelinux9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oracle
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oraclelinux9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oracle
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:innovation-oraclelinux9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:innovation-oracle
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:innovation
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:9.4.0-oraclelinux9
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-4cd9f7d
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:2025-08-09
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:1.3.0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-f18c501
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-08-08
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-f18c501
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-08-08
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
 ```
 <!-- DOCKER_END -->
 
