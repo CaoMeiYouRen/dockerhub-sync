@@ -20,29 +20,19 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-f44a68847a0cff181bd4ab2e88027fffa2041b12
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-2025-09-05
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-22200f2fc047b09568c51b1f045250340a5e201b
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-2025-09-06
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:f44a68847a0cff181bd4ab2e88027fffa2041b12
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-09-05
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:22200f2fc047b09568c51b1f045250340a5e201b
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-09-06
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-10cacfdf010c6c43073b837060df5f22b3afe308
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-69047f4fa29ef4e66cb29387f82b848a5ae1bf7d
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-aria2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-aio
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-trixie-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-trixie
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-bullseye-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-bullseye
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-bookworm-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-alpine3.22
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-alpine3.21
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:iron-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:trixie
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:alpine3.22
@@ -63,6 +53,12 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk17-noble
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk17
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk-noble
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk-lts-and-current-noble
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-e4d1ce9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:2025-09-07
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-65a9a77
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:2025-09-06
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:1.6.0
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-c34d0d4
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-09-05
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
@@ -70,9 +66,6 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-c34d0d4
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-09-05
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-d5602e5
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-257320d
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-09-04
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-257320d
 ```
 <!-- DOCKER_END -->
 
