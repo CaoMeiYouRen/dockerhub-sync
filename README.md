@@ -20,27 +20,35 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-22200f2fc047b09568c51b1f045250340a5e201b
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-2025-09-06
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-e3119f62074f64980daaaaa8c4d614f7eaeb9390
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-2025-09-08
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:22200f2fc047b09568c51b1f045250340a5e201b
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-09-06
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:e3119f62074f64980daaaaa8c4d614f7eaeb9390
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-09-08
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-69047f4fa29ef4e66cb29387f82b848a5ae1bf7d
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-802cbf95d276a3c9e9cd21ecb53690e79cc73b4d
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-trixie
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-alpine3.22
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-alpine3.21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-20250831-trixie
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-20250831-alpine3.22
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-20250831-alpine3.21
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-20250831-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-20250831
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-ed1bb4d
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:2025-09-09
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-48154f4
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:2025-09-08
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-3ba77fe
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-09-08
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-3ba77fe
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-09-08
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-e4d1ce9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:2025-09-07
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-65a9a77
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:2025-09-06
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:1.6.0
 ```
 <!-- DOCKER_END -->
 
