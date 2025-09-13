@@ -20,6 +20,9 @@
 
 <!-- DOCKER_START -->
 ```
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-e075eb1
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2025-09-14
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-3a219bb30825c54b301690ff7576f94390b4d61f
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-2025-09-12
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled
@@ -27,32 +30,18 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:3a219bb30825c54b301690ff75
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:2025-09-12
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rsshub:chromium-bundled-5665b1eca386e34e8f2f65aa9a619281fe94d391
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:latest-aio
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.53.0-aio
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:latest-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.53.0-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:latest-aria2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.53.0-aria2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.53.0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-aio
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:trixie-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:trixie
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-trixie-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-trixie
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-bookworm-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine3.22
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.14.0rc2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:8u462-b08-jre
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.23-slim-trixie
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9.23-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-slim-trixie
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.9-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.13-slim-trixie
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.13-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11-slim-trixie
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10.18-slim-trixie
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10.18-slim
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk8-corretto-al2023
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk8-corretto
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk24-corretto-al2023
@@ -63,8 +52,6 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk17-corretto-al2023
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk17-corretto
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk11-corretto-al2023
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk11-corretto
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.0.14-rc1-noble
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4-fpm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4-apache
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4
@@ -75,12 +62,10 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2-fpm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2-apache
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.1-fpm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-b91afc2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:2025-09-12
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-11e1773
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:2025-09-14
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-02e95c2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:2025-09-11
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-f08724f
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-9847994
 ```
 <!-- DOCKER_END -->
 
