@@ -1,5 +1,5 @@
 #!/usr/bin/env zx
-/* eslint-disable no-undef */
+ 
 import 'zx/globals'
 import Parser from 'rss-parser'
 import fs from 'fs-extra'
