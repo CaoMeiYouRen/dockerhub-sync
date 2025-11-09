@@ -97,7 +97,8 @@
   },
   "pnpm": {
     "overrides": {
-      "compare-func": "^2.0.0"
+      "compare-func": "^2.0.0",
+      "katex": "^0.16.21"
     }
   }
 }
