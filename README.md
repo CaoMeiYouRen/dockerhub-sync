@@ -20,31 +20,19 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-bbf60d7
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2025-11-15
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:1.17.1
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:latest-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.55.0-ffmpeg
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:latest-aio
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.55.0-aio
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:latest-aria2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.55.0-aria2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:v3.55.0
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:25.0.1_8-jre-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:25.0.1_8-jre
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:25.0.1_8-jdk-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:25.0.1_8-jdk
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:25-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:25-jre-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:25-jre
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:25-jdk-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:25-jdk
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:trixie-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:trixie
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-trixie-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-trixie
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-bullseye-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-bullseye
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-bookworm-slim
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:8.14.3-noble
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:8.14.3-jdk21-noble
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:8.14.3-jdk21
@@ -55,15 +43,20 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:8.14.3-jdk
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:8.14.3
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:8.14-noble
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:8.14-jdk21-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-f794c90
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-2d747ba
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:2025-11-17
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-b9f56f7
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-85a425c
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-f794c90
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-ad7b9d9
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:2025-11-16
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-05f0e81
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-resources-download:sha-d2f5ee7
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-resources-download:2025-11-15
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-resources-download:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-62de4fd
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-11-17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-62de4fd
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-11-17
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
 ```
 <!-- DOCKER_END -->
 
