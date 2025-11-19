@@ -52,9 +52,6 @@ importers:
       '@commitlint/cli':
         specifier: ^20.1.0
         version: 20.1.0(@types/node@24.10.1)(typescript@5.9.3)
-      '@commitlint/config-conventional':
-        specifier: ^20.0.0
-        version: 20.0.0
       '@types/debug':
         specifier: ^4.1.12
         version: 4.1.12
@@ -70,6 +67,9 @@ importers:
       commitizen:
         specifier: ^4.3.0
         version: 4.3.1(@types/node@24.10.1)(typescript@5.9.3)
+      commitlint-config-cmyr:
+        specifier: ^1.0.0
+        version: 1.0.0
       conventional-changelog-cmyr-config:
         specifier: ^2.1.2
         version: 2.1.2
@@ -141,8 +141,8 @@ packages:
     engines: {node: '>=v18'}
     hasBin: true
 
-  '@commitlint/config-conventional@20.0.0':
-    resolution: {integrity: sha512-q7JroPIkDBtyOkVe9Bca0p7kAUYxZMxkrBArCfuD3yN4KjRAenP9PmYwnn7rsw8Q+hHq1QB2BRmBh0/Z19ZoJw==}
+  '@commitlint/config-conventional@19.8.1':
+    resolution: {integrity: sha512-/AZHJL6F6B/G959CsMAzrPKKZjeEiAVifRyEwXxcT6qtqbPwGw+iQxmNS+Bu+i09OCtdNRW6pNpBvgPrtMr9EQ==}
     engines: {node: '>=v18'}
 
   '@commitlint/config-validator@19.8.1':
@@ -1251,6 +1251,10 @@ packages:
     resolution: {integrity: sha512-gwAPAVTy/j5YcOOebcCRIijn+mSjWJC+IYKivTu6aG8Ei/scoXgfsMRnuAk6b0GRste2J4NGxVdMN3ZpfNaVaw==}
     engines: {node: '>= 12'}
     hasBin: true
+
+  commitlint-config-cmyr@1.0.0:
+    resolution: {integrity: sha512-Tz+D9EUe0qq1/xkkPoSELol8sHF2pf0ziBN5zLSdgqfFG1kBFMYtJmi+UP78ehSBZGn1jrwmk2Qu9pFE8DWgJg==}
+    engines: {node: '>=18'}
 
   compare-func@2.0.0:
     resolution: {integrity: sha512-zHig5N+tPWARooBnb0Zx1MFcdfpyJrfTJ3Y5L+IFvUm8rM74hHz66z0gw0x4tijh5CorKkKUCnW82R2vmpeCRA==}
@@ -3839,9 +3843,9 @@ snapshots:
       - '@types/node'
       - typescript
 
-  '@commitlint/config-conventional@20.0.0':
+  '@commitlint/config-conventional@19.8.1':
     dependencies:
-      '@commitlint/types': 20.0.0
+      '@commitlint/types': 19.8.1
       conventional-changelog-conventionalcommits: 7.0.2
 
   '@commitlint/config-validator@19.8.1':
@@ -4925,6 +4929,10 @@ snapshots:
     transitivePeerDependencies:
       - '@types/node'
       - typescript
+
+  commitlint-config-cmyr@1.0.0:
+    dependencies:
+      '@commitlint/config-conventional': 19.8.1
 
   compare-func@2.0.0:
     dependencies:
