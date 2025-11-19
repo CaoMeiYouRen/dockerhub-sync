@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^20.1.0",
-    "commitlint-config-cmyr": "^1.0.0",
+    "@commitlint/config-conventional": "^20.0.0",
     "@types/debug": "^4.1.12",
     "@types/fs-extra": "^11.0.4",
     "@types/lodash-es": "^4.17.12",
@@ -51,7 +51,7 @@
     "lint-staged": "^16.2.6",
     "rimraf": "^6.1.0",
     "semantic-release": "^25.0.2",
-    "tsup": "^8.5.0",
+    "tsup": "^8.5.1",
     "tsx": "^4.20.6",
     "typescript": "^5.9.3"
   },
@@ -98,7 +98,10 @@
   "pnpm": {
     "overrides": {
       "compare-func": "^2.0.0",
-      "katex": "^0.16.21"
+      "katex": "^0.16.21",
+      "js-yaml": "^4.1.1",
+      "brace-expansion": "^2.0.2",
+      "tmp": "^0.2.4"
     }
   }
 }
