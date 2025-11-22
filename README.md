@@ -21,19 +21,12 @@
 <!-- DOCKER_START -->
 ```
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-70e462d
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2025-11-20
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2025-11-22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-ccdb89b
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:1.17.2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:lts
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:2.33.4-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:2.33.4
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:2.33.4-linux-amd64-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:2.33.4-linux-amd64
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.15.0a2-alpine3.22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.15.0a2-alpine3.21
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.15.0a2-alpine
@@ -75,11 +68,6 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2025-11-21
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-61437c0
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-61437c0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-ef3f6b4
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2025-11-20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-632bacd
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:2025-11-20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:latest
 ```
 <!-- DOCKER_END -->
 
