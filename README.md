@@ -22,6 +22,7 @@
 ```
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.5-fpm-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4-fpm-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm-alpine
@@ -32,19 +33,16 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-php8.4
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-php8.3
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-php8.2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.12.0-php8.5
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-044bb7a
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:2026-01-10
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-75147e3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:2026-01-12
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:1.0.0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-db9a115
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-03c9790
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-ec95561
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-c659e95
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2026-01-09
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-c659e95
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2026-01-09
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-9f54215
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-6833648
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-55c4181
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-fe9974a
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:2026-01-11
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-e0ed21a
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-a3f9750
 ```
 <!-- DOCKER_END -->
 
