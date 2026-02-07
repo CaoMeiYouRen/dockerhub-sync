@@ -20,8 +20,17 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:sha-053ff91
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:2026-02-07
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-impact-server:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:2.1.0
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:2
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:next
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:2.1.0-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:2-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:next-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:2.1.0-rootless
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:2-rootless
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.485-jdk21
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.485-jdk17
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/jenkins:2.485
@@ -36,16 +45,16 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/nginx-proxy-manager:2.13.7
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.14-slim-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.14-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.14-alpine3.23
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.14-alpine3.22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.14-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11-slim-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11-alpine3.23
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11-alpine3.22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10.19-slim-trixie
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10.19-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10.19-alpine3.23
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10.19-alpine3.22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:alpine3.22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.25.7-alpine3.22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:1.25-alpine3.22
@@ -70,8 +79,6 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:9.3-jdk25-ubi10
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:9.3-jdk25-ubi
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:9-jdk25-ubi10
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:9-jdk25-ubi
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.6-rc1-trixie
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.6-rc1
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oraclelinux9
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oracle
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oraclelinux9
@@ -92,22 +99,21 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4-apache
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-776aa44
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-resources-download:sha-4ef2569
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-resources-download:2026-02-08
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-resources-download:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/cookie-cloudflare:sha-0a533cf
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/cookie-cloudflare:2026-02-08
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/cookie-cloudflare:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-30aaefc
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:2026-02-07
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:1.4.0
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-776aa44
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-5a13ae5
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-30f7efb
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:2026-02-06
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-28b2cf3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-ba762fd
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:2026-02-05
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-b967a68
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-442f456
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2026-02-06
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-442f456
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2026-02-06
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
 ```
 <!-- DOCKER_END -->
 
