@@ -32,10 +32,6 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:2026-02-16
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3-node24
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3.23-node24.13
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.2.4-alpine3.22
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.2.4-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.2-alpine3.22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.5-fpm-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-php8.5
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:cli-2.12.0-php8.5
@@ -46,6 +42,16 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:6.9-php8.5-fpm-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:6-php8.5-fpm-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4-fpm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4-apache
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-648767c
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:2026-02-16
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-4ba7f5b
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2026-02-16
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-4ba7f5b
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2026-02-16
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-1d9aabf
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:2026-02-16
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:alpine3-node24
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:alpine3.23-node24.13
@@ -53,13 +59,6 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-8461b4a
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:2026-02-15
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-d4add5f
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:2026-02-14
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-0e739ee
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:1.5.0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-a11fd57
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2026-02-16
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
 ```
 <!-- DOCKER_END -->
 
