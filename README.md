@@ -20,31 +20,33 @@
 
 <!-- DOCKER_START -->
 ```
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:2026-02-23
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3-node24
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:alpine3.23-node24.13
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-minimize:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:2026-02-23
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3-node24
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3.23-node24.13
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:2026-02-23
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3-node24
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:alpine3.23-node24.13
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.2.6-rc0-noble
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.2.6-rc0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oraclelinux9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oracle
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oraclelinux9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oracle
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:innovation-oraclelinux9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:innovation-oracle
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:innovation
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:9.6.0-oraclelinux9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-0c2d8c6
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:2026-02-23
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-5638dae
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:2026-02-21
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:1.6.0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/onebot-status-helper:sha-9134de2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/onebot-status-helper:2026-02-21
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/onebot-status-helper:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-420d70e
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2026-02-20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-0fbc778
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:2026-02-23
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:alpine3-node24
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:alpine3.23-node24.13
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:latest
 ```
 <!-- DOCKER_END -->
 
