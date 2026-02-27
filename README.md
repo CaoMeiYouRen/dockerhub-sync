@@ -20,6 +20,8 @@
 
 <!-- DOCKER_START -->
 ```
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:alpine-sts
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:sts
@@ -28,6 +30,7 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:lts
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:2.39.0-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:2.39.0
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:2.39.0-linux-arm64-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/portainer-ce:2.39.0-linux-amd64-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine3.23
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-alpine3.22
@@ -39,16 +42,16 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:25.7.0-alpine3.23
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:25.7.0-alpine3.22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:25.7.0-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:25.7-alpine3.23
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.15.0a6-slim-trixie
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.15.0a6-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.14-trixie
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.14-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.14
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11-trixie
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-bookworm
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-20260221-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10.19-slim-trixie
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10.19-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10-slim-trixie
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.12.12-slim-trixie
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.12.12-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.12-slim-trixie
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.12-slim
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.14-slim-trixie
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.14-slim
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.4.2-trixie
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.4.2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.4-trixie
@@ -66,10 +69,6 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-71b47ca
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2026-02-27
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-4800af7
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2026-02-26
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-4800af7
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2026-02-26
 ```
 <!-- DOCKER_END -->
 
