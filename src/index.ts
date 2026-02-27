@@ -1,5 +1,5 @@
 #!/usr/bin/env zx
- 
+
 import 'zx/globals'
 import Parser from 'rss-parser'
 import fs from 'fs-extra'
@@ -52,6 +52,15 @@ const destinationTransport = 'docker'
 const limit = parseInt(process.env.SYNC_LIMIT) || 5
 const syncFormat = 'v2s2'
 const filterTime = (parseInt(process.env.SYNC_FILTER_TIME) || 2) * 24 * 60 * 60 // 48 hours in seconds 172800
+const fallbackOs = process.env.SYNC_FALLBACK_OS || 'linux'
+const fallbackArch = process.env.SYNC_FALLBACK_ARCH || 'amd64'
+
+function shouldFallbackToSinglePlatform(error: unknown) {
+    const message = String(error || '').toLowerCase()
+    return message.includes('blob type invalid')
+        || message.includes('manifest list')
+        || message.includes('copying system image from manifest list')
+}
 
 let dockerTags = ''
 const filteroutRegex = /:(.*\.sig|.*window|.*nano|github.*|.*develop|.*beta|.*alpha|test|nightly.*|.*rc\.|.*rc-)/
@@ -91,6 +100,18 @@ for (const sourceRepo of sourceRepos) {
                 dockerTags += '\n'
             } catch (error2) {
                 console.error(`exec error: ${error2}`)
+                if (!shouldFallbackToSinglePlatform(error2)) {
+                    continue
+                }
+                try {
+                    console.log(`Retry with single platform ${fallbackOs}/${fallbackArch}: ${sourceImage} -> ${destinationImage}`)
+                    await $`skopeo copy --format ${syncFormat} --override-os ${fallbackOs} --override-arch ${fallbackArch} --src-tls-verify=false --dest-tls-verify=false --dest-creds=${username}:${password} ${sourceTransport}://${sourceImage} ${destinationTransport}://${destinationImage}`
+                    console.log(`Synced with fallback ${sourceImage} to ${destinationImage}`)
+                    dockerTags += destinationImage
+                    dockerTags += '\n'
+                } catch (fallbackError) {
+                    console.error(`fallback exec error: ${fallbackError}`)
+                }
             }
         }
     }
