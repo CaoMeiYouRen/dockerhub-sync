@@ -123,7 +123,7 @@ for (const sourceRepo of sourceRepos) {
             const destinationImage = `${registry}/${projectName}:${rawTag}`
             try {
                 console.log(`Start synchronizing ${sourceImage} to ${destinationImage}`)
-                await $`skopeo copy --format ${syncFormat} --dest-compress --src-tls-verify=false --dest-tls-verify=false --dest-creds=${username}:${password} ${sourceTransport}://${sourceImage} ${destinationTransport}://${destinationImage}`
+                await $`skopeo copy --format ${syncFormat} --src-tls-verify=false --dest-tls-verify=false --dest-creds=${username}:${password} ${sourceTransport}://${sourceImage} ${destinationTransport}://${destinationImage}`
                 console.log(`Synced ${sourceImage} to ${destinationImage}`)
                 dockerTags += destinationImage
                 dockerTags += '\n'
@@ -135,7 +135,7 @@ for (const sourceRepo of sourceRepos) {
                 try {
                     const { os, arch } = getPlatformByTag(tag)
                     console.log(`Retry with single platform ${os}/${arch}: ${sourceImage} -> ${destinationImage}`)
-                    await $`skopeo copy --format ${syncFormat} --dest-compress --override-os ${os} --override-arch ${arch} --src-tls-verify=false --dest-tls-verify=false --dest-creds=${username}:${password} ${sourceTransport}://${sourceImage} ${destinationTransport}://${destinationImage}`
+                    await $`skopeo copy --format ${syncFormat} --override-os ${os} --override-arch ${arch} --src-tls-verify=false --dest-tls-verify=false --dest-creds=${username}:${password} ${sourceTransport}://${sourceImage} ${destinationTransport}://${destinationImage}`
                     console.log(`Synced with fallback ${sourceImage} to ${destinationImage}`)
                     dockerTags += destinationImage
                     dockerTags += '\n'
