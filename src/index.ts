@@ -55,11 +55,40 @@ const filterTime = (parseInt(process.env.SYNC_FILTER_TIME) || 2) * 24 * 60 * 60 
 const fallbackOs = process.env.SYNC_FALLBACK_OS || 'linux'
 const fallbackArch = process.env.SYNC_FALLBACK_ARCH || 'amd64'
 
+function getPlatformByTag(tag: string) {
+    const lowerTag = tag.toLowerCase()
+    let arch = fallbackArch
+    let os = fallbackOs
+
+    if (lowerTag.includes('arm64') || lowerTag.includes('aarch64')) {
+        arch = 'arm64'
+    } else if (lowerTag.includes('armv7') || lowerTag.includes('arm/v7')) {
+        arch = 'arm'
+    } else if (lowerTag.includes('armv6') || lowerTag.includes('arm/v6')) {
+        arch = 'arm'
+    } else if (lowerTag.includes('amd64') || lowerTag.includes('x86_64')) {
+        arch = 'amd64'
+    } else if (lowerTag.includes('386') || lowerTag.includes('i386')) {
+        arch = '386'
+    } else if (lowerTag.includes('s390x')) {
+        arch = 's390x'
+    } else if (lowerTag.includes('ppc64le')) {
+        arch = 'ppc64le'
+    }
+
+    if (lowerTag.includes('windows')) {
+        os = 'windows'
+    }
+
+    return { os, arch }
+}
+
 function shouldFallbackToSinglePlatform(error: unknown) {
     const message = String(error || '').toLowerCase()
     return message.includes('blob type invalid')
         || message.includes('manifest list')
         || message.includes('copying system image from manifest list')
+        || message.includes('no image found in image index')
 }
 
 let dockerTags = ''
@@ -94,7 +123,7 @@ for (const sourceRepo of sourceRepos) {
             const destinationImage = `${registry}/${projectName}:${rawTag}`
             try {
                 console.log(`Start synchronizing ${sourceImage} to ${destinationImage}`)
-                await $`skopeo copy --format ${syncFormat} --src-tls-verify=false --dest-tls-verify=false --dest-creds=${username}:${password} ${sourceTransport}://${sourceImage} ${destinationTransport}://${destinationImage}`
+                await $`skopeo copy --format ${syncFormat} --dest-compress --src-tls-verify=false --dest-tls-verify=false --dest-creds=${username}:${password} ${sourceTransport}://${sourceImage} ${destinationTransport}://${destinationImage}`
                 console.log(`Synced ${sourceImage} to ${destinationImage}`)
                 dockerTags += destinationImage
                 dockerTags += '\n'
@@ -104,8 +133,9 @@ for (const sourceRepo of sourceRepos) {
                     continue
                 }
                 try {
-                    console.log(`Retry with single platform ${fallbackOs}/${fallbackArch}: ${sourceImage} -> ${destinationImage}`)
-                    await $`skopeo copy --format ${syncFormat} --override-os ${fallbackOs} --override-arch ${fallbackArch} --src-tls-verify=false --dest-tls-verify=false --dest-creds=${username}:${password} ${sourceTransport}://${sourceImage} ${destinationTransport}://${destinationImage}`
+                    const { os, arch } = getPlatformByTag(tag)
+                    console.log(`Retry with single platform ${os}/${arch}: ${sourceImage} -> ${destinationImage}`)
+                    await $`skopeo copy --format ${syncFormat} --dest-compress --override-os ${os} --override-arch ${arch} --src-tls-verify=false --dest-tls-verify=false --dest-creds=${username}:${password} ${sourceTransport}://${sourceImage} ${destinationTransport}://${destinationImage}`
                     console.log(`Synced with fallback ${sourceImage} to ${destinationImage}`)
                     dockerTags += destinationImage
                     dockerTags += '\n'
