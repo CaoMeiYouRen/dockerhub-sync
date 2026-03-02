@@ -20,10 +20,6 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/koishi:latest-lite
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/koishi:v1.16.0-lite
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/koishi:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/koishi:v1.16.0
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/qbittorrent:5.1.4-libtorrentv1
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/qbittorrent:libtorrentv1-version-release-5.1.4_v1.2.20
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/qbittorrent:libtorrentv1-release-5.1.4_v1.2.20-ls105
@@ -53,16 +49,23 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.6
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8-trixie
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.5-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-cc2dc04
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:2026-03-03
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-d24c849
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:2026-03-02
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-b273ccf
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-69ddf9b
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:2026-03-01
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-5d9cc92
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-b85ff64
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-0663e72
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:2026-02-28
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-7be9ee7
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2026-03-02
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-7be9ee7
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2026-03-02
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-a7e8a25
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-83ec6db
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:2026-03-01
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:latest
@@ -82,9 +85,6 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/onebot-status-helper:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/auto-backup-database:sha-804ed47
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/auto-backup-database:2026-03-01
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/auto-backup-database:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-a7e8a25
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2026-03-02
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
 ```
 <!-- DOCKER_END -->
 
