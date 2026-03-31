@@ -86,7 +86,7 @@
     "await-to-js": "^3.0.0",
     "dayjs": "^1.11.11",
     "dotenv": "^17.3.1",
-    "fs-extra": "^11.3.3",
+    "fs-extra": "^11.3.4",
     "isomorphic-unfetch": "^4.0.2",
     "lodash-es": "^4.17.23",
     "log4js": "^6.9.1",
