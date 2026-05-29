@@ -20,25 +20,19 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:stable
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:0.29
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:0.29.0
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/watchtower:arm64v8-nightly
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/watchtower:i386-nightly
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/watchtower:amd64-nightly
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-alpine3.22
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-20260523-alpine3.22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-trixie
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-alpine3.23
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-20260523-trixie
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-20260523-bookworm
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-20260523-alpine3.23
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-20260523-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-20260523
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-alpine3.22
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-20260523-alpine3.22
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:8u492-b09-jre-ubi10-minimal
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:8u492-b09-jdk-ubi10-minimal
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:8-ubi10-minimal
@@ -59,16 +53,16 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk21-ubi10
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk21-ubi
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk17-ubi10
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk17-ubi
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:alpine3.23
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.8.0-alpine3.23
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.8.0-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.8-alpine3.23
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.8-alpine
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8-alpine3.23
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:trixie
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.8.0-trixie
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.8.0
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.8-trixie
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.8
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8-trixie
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:alpine3.23
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/auto-backup-database:sha-074fbdf
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/auto-backup-database:2026-05-29
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/auto-backup-database:latest
@@ -80,15 +74,6 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/rss-image-download:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-4c44a00
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:2026-05-28
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-28a10d8
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:2026-05-27
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-b26ffbc
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:sha-f90ebf6
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:2026-05-27
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hexo-cloudflare-counter:sha-c3f061b
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hexo-cloudflare-counter:2026-05-27
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hexo-cloudflare-counter:latest
 ```
 <!-- DOCKER_END -->
 
