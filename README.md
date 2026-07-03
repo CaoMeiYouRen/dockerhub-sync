@@ -20,28 +20,19 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:pr-test2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:push
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/openlist:latest-aria2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/openlist:v4.2.3-aria2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/openlist:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/openlist:v4.2.3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/openlist:latest-lite
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/openlist:latest-lite-aio
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/new-api:refactor-convert-20260703-bdc9205
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/new-api:refactor-convert
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/new-api:refactor-convert-20260703-bdc9205-arm64
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/new-api:refactor-convert-arm64
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/new-api:refactor-convert-20260703-bdc9205-amd64
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/new-api:refactor-convert-amd64
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/new-api:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/watchtower:arm64v8-nightly
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/watchtower:amd64-nightly
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/watchtower:i386-nightly
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10.20-trixie
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10.20
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10-trixie
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.10
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-trixie
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-20260626-trixie
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-20260626
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/watchtower:amd64-nightly
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:latest
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:8u492-b09-jre-resolute
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:8u492-b09-jre-noble
@@ -72,15 +63,16 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.2.11-noble
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.2.11
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.2-noble
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mongo:8.2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/cookie-cloudflare:bun-sha-32673ce
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/cookie-cloudflare:bun-2026-07-01
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/cookie-cloudflare:bun-latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:sha-ad37e06
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:2026-07-01
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/afdian-linker:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/tinyfish-mcp:sha-67a1348
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/tinyfish-mcp:2026-07-01
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/tinyfish-mcp:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4-fpm-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4-apache
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3-apache
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.3
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2-fpm-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.2-fpm
 ```
 <!-- DOCKER_END -->
 
