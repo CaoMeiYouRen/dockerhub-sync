@@ -20,22 +20,10 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/watchtower:arm64v8-nightly
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/watchtower:amd64-nightly
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/watchtower:i386-nightly
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:trixie
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current-trixie
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:current
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:26.5.0-trixie
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:26.5.0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:26.5-trixie
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:26.5
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:26-trixie
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/node:26
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/watchtower:amd64-nightly
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.15-slim-trixie
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11.15-slim
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/python:3.11-slim-trixie
@@ -69,16 +57,33 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.8-trixie
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.8
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8-trixie
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.6.4-trixie
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/redis:8.6.4
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-05f599f
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oraclelinux9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:oracle
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oraclelinux9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts-oracle
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:lts
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:9.7.1-oraclelinux9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:9.7.1-oracle
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:9.7.1
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/mysql:9.7-oraclelinux9
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.5-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4-apache
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:php8.4
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:7.0.1-php8.5-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:7.0.1-php8.4-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:7.0.1-php8.4-apache
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:7.0.1-php8.4
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:7.0-php8.5-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/wordpress:7.0-php8.4-fpm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-d7951d7
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:2026-07-17
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-05f599f
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-4a35f5a
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-3c8835c
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:2026-07-16
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-6b50176
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:2026-07-15
 ```
 <!-- DOCKER_END -->
 
