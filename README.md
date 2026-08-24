@@ -20,14 +20,6 @@
 
 <!-- DOCKER_START -->
 ```
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:2.5.3
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:2
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:next
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:2.5.3-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:2-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:next-slim
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:2.5.3-rootless
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/uptime-kuma:2-rootless
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/qbittorrent:5.2.3
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/qbittorrent:version-5.2.3_v2.0.14
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/qbittorrent:5.2.3-libtorrentv1
@@ -42,22 +34,17 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-ffmpeg
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-aio
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main-aria2
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alist:main
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/freshrss:edge-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/memos:canary
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/watchtower:arm64v8-nightly
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/watchtower:amd64-nightly
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/watchtower:i386-nightly
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:26.0.2_10-jre-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:26.0.2_10-jdk-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:26-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:26-jre-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:26-jdk-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:25.0.4_7-jre-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:25.0.4_7-jdk-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:25-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:25-jre-noble
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/eclipse-temurin:25-jdk-noble
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-trixie
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-alpine3.24
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-alpine3.23
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-alpine
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-20260823-trixie
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-20260823-bookworm
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-20260823-alpine3.24
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-20260823-alpine3.23
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/golang:tip-20260823-alpine
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:noble
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk26-noble
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:jdk25-noble
@@ -68,6 +55,16 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:9.7.1-noble
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:9.7.1-jdk26-noble
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:9.7.1-jdk25-noble
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/gradle:9.7.1-jdk21-noble
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-73776b4
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2026-08-25
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-73776b4
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2026-08-25
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-latest
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:sha-8779d83
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:2026-08-24
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-sha-8779d83
+registry.cn-hangzhou.aliyuncs.com/caomeiyouren/hono-template:bun-2026-08-24
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:2026-08-24
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3-node24
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-nodejs-mongodb-tools:alpine3.23-node24.18
@@ -84,14 +81,6 @@ registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:2026-08-24
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:alpine3-node24
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:alpine3.23-node24.18
 registry.cn-hangzhou.aliyuncs.com/caomeiyouren/alpine-bun:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:sha-bb11f0c
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:2026-08-22
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/momei:1.26.0
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:sha-dbd21e9
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:2026-08-22
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:latest
-registry.cn-hangzhou.aliyuncs.com/caomeiyouren/caomei-auth:1.13.3
 ```
 <!-- DOCKER_END -->
 
